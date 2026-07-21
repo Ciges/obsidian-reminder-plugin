@@ -1,7 +1,7 @@
 # Obsidian Reminder fork
 
 Original Obsidian Reminder version: **1.3.2**
-Fork version: **1.3.2.1**
+Fork version: **1.3.2.2**
 
 Local fork of the [Obsidian Reminder](https://github.com/uphy/obsidian-reminder) plugin (built files, not source code) to create a custom version. Made by modifying the JavaScript code. The `main.js` has been de-minified to keep the customizations readable and maintainable across upstream updates. Original authorship (`uphy`) is preserved in `manifest.json`.
 
@@ -21,10 +21,3 @@ Changes 1 and 2 adapt the plugin to a workflow that uses custom task-checkbox st
 Change 3 is a new feature:
 
 3. **"Show note name in reminder list" setting** — new boolean option under *Settings → Reminder → Display* (default **on**, preserving the original behavior). When turned **off**, the source note name next to each reminder is hidden in the reminder list view. Implemented without touching the compiled Svelte render: the view toggles a `reminder-hide-note-name` CSS class on its container (reactively, via the setting's `onChanged`), and a rule in `styles.css` hides `.reminder-file` for that state. Only the sidebar reminder **list** is affected; the notification popup/toast still shows the note name.
-
-## Updating from upstream
-
-When pulling a new upstream release, re-apply all changes (search for `// Fork Ciges` in `main.js` and `styles.css`, or grep the anchors below — variable names may differ if the file is re-minified):
-
-- **Changes 1 & 2:** locate `setChecked` and `checkedStatuses` in `main.js` and reproduce the two edits above.
-- **Change 3:** re-add the `showNoteNameInReminderList` setting (field declaration in the settings class, the `newSettingBuilder()` block, and register it on the "Display" page), the `applyNoteNameVisibility()` logic in the reminder list `ItemView`, and the `.reminder-hide-note-name .reminder-file` rule in `styles.css`.
