@@ -1,0 +1,1339 @@
+{
+  "scanned": true,
+  "reminders": {
+    "WIKI DE SISTEMAS CTO DE CIGES/Parque de máquinas/SCS-PASEyESPERE/SCS-PLX/Entorno PRO/QUENDAPGPRO02.md": [
+      {
+        "title": "[[QUENDAPGPRO02]] borra /var/log/messages antiguos",
+        "time": "2026-05-20",
+        "rowNumber": 52,
+        "muted": true
+      }
+    ],
+    "WIKI DE SISTEMAS CTO DE CIGES/Parque de máquinas/SCS-PASEyESPERE/SCS-PLX/Entorno PRO/QUENDAPGPRO01.md": [
+      {
+        "title": "[[QUENDAPGPRO01]] borra /var/log/messages antiguos",
+        "time": "2026-05-20",
+        "rowNumber": 52,
+        "muted": true
+      }
+    ],
+    "WIKI DE SISTEMAS CTO DE CIGES/Parque de máquinas/HUMV-Templates/MVs para BORRAR/altamirapre02 14-05-2026 BORRAR.md": [
+      {
+        "title": "Da de baja la máquina [[altamirapre02 14-05-2026 BORRAR]]",
+        "time": "2026-05-21",
+        "rowNumber": 53,
+        "muted": true
+      }
+    ],
+    "WIKI DE SISTEMAS CTO DE CIGES/Parque de máquinas/HUMV-Monitorizacion/Entorno PRO/proteus4.md": [
+      {
+        "title": "Revisa que el log `/var/log/maillog` se está rotando",
+        "time": "2026-07-16",
+        "rowNumber": 173,
+        "muted": true
+      }
+    ],
+    "TAREAS/TODOS LOS DÍAS/Organización de la jornada.md": [
+      {
+        "title": "⚠️Revisa el 👯 Teams y el ✉️ correo!",
+        "time": "2026-07-21 09:31",
+        "rowNumber": 56,
+        "muted": true
+      },
+      {
+        "title": "==[[REVISIÓN DE TICKETS|Búsqueda de tickets urgentes]]==",
+        "time": "2026-07-21 09:30",
+        "rowNumber": 59,
+        "muted": true
+      },
+      {
+        "title": "==Parada y tareas personales==",
+        "time": "2026-07-21 14:26",
+        "rowNumber": 66,
+        "muted": false
+      },
+      {
+        "title": "⚠️Revisa el 👯 Teams y el ✉️ correo!",
+        "time": "2026-07-21 16:40",
+        "rowNumber": 74,
+        "muted": false
+      },
+      {
+        "title": "==[[REVISIÓN DE TICKETS|Búsqueda de tickets urgentes]]==",
+        "time": "2026-07-21 16:00",
+        "rowNumber": 78,
+        "muted": false
+      },
+      {
+        "title": "==Parada y tareas personales==",
+        "time": "2026-07-21 19:16",
+        "rowNumber": 82,
+        "muted": false
+      },
+      {
+        "title": "==[[REVISIÓN DE TICKETS|Búsqueda de tickets urgentes]]==",
+        "time": "2026-07-21 18:00",
+        "rowNumber": 83,
+        "muted": false
+      }
+    ],
+    "TAREAS/LA SEMANA QUE VIENE/Tickets/488999.md": [
+      {
+        "title": "🎟️ [488999](https://aurora.intranet.humv.es/aurora-ui/index.zul?idPeticionAurora=488999) → Conseguir la autorizacion",
+        "time": "2026-07-27 14:00",
+        "rowNumber": 43,
+        "muted": false
+      }
+    ],
+    "TAREAS/LA SEMANA QUE VIENE/Tickets/488996.md": [
+      {
+        "title": "🎟️ [488996](https://aurora.intranet.humv.es/aurora-ui/index.zul?idPeticionAurora=488996) → Conseguir la autorizacion",
+        "time": "2026-07-23 14:00",
+        "rowNumber": 45,
+        "muted": false
+      }
+    ],
+    "TAREAS/DESPUÉS/Primitiva de la Oficina de Seresco.md": [
+      {
+        "title": "Ya no tienes fondos",
+        "time": "2026-08-03",
+        "rowNumber": 37,
+        "muted": false
+      }
+    ],
+    "TAREAS/ESTA SEMANA/Tickets/En espera/484732.md": [
+      {
+        "title": "🎟️ [484732](https://aurora.intranet.humv.es/aurora-ui/index.zul?idPeticionAurora=484732)",
+        "time": "2026-06-24 13:40",
+        "rowNumber": 46,
+        "muted": true
+      }
+    ],
+    "TAREAS/ESTA SEMANA/C-SIS-694 Deshabilitación de los interfaces de replicación.md": [
+      {
+        "title": "Ejecutamos el cambio ==en la ventana indicada dentro del cambio==",
+        "time": "2026-05-05 15:00",
+        "rowNumber": 71,
+        "muted": true
+      }
+    ],
+    "TAREAS/BACKLOG/Eventos interesantes/Galicia TIC.md": [
+      {
+        "title": "💬Recuerda que este evento es a finales de Octubre",
+        "time": "2026-06-01",
+        "rowNumber": 22,
+        "muted": true
+      }
+    ],
+    "TAREAS/Completadas/Tickets/cerrados/487145.md": [
+      {
+        "title": "🎟️ [487145](https://aurora.intranet.humv.es/aurora-ui/index.zul?idPeticionAurora=487145)",
+        "time": "2026-07-08 10:02",
+        "rowNumber": 48,
+        "muted": true
+      }
+    ],
+    "TAREAS/Completadas/Tickets/cerrados/485841.md": [
+      {
+        "title": "🎟️ [485841](https://aurora.intranet.humv.es/aurora-ui/index.zul?idPeticionAurora=485841)",
+        "time": "2026-06-29 18:30",
+        "rowNumber": 49,
+        "muted": true
+      }
+    ],
+    "TAREAS/Completadas/Tickets/cerrados/483466.md": [
+      {
+        "title": "Elimina la mv [[QUENDABDPRE03]]",
+        "time": "2026-06-23 09:00",
+        "rowNumber": 47,
+        "muted": true
+      }
+    ],
+    "TAREAS/Completadas/Tickets/cerrados/483170.md": [
+      {
+        "title": "Reinicio de [[Aurorapro]] ✅ 2026-06-16",
+        "time": "2026-06-16 15:30",
+        "rowNumber": 73,
+        "muted": true
+      }
+    ],
+    "TAREAS/Completadas/Tickets/cerrados/480398.md": [
+      {
+        "title": "🎟️ [480398](https://aurora.intranet.humv.es/aurora-ui/index.zul?idPeticionAurora=480398)",
+        "time": "2026-05-29 08:29",
+        "rowNumber": 44,
+        "muted": true
+      }
+    ],
+    "TAREAS/Completadas/Tickets/cerrados/479504.md": [
+      {
+        "title": "Backup manual de [[alergiaspre01]]",
+        "time": "2026-05-28",
+        "rowNumber": 51,
+        "muted": true
+      },
+      {
+        "title": "¿Borrado de [[alergiaspre01]]?",
+        "time": "2026-06-03",
+        "rowNumber": 52,
+        "muted": true
+      }
+    ],
+    "TAREAS/Completadas/Tickets/cerrados/478175.md": [
+      {
+        "title": "Borrar la máquina antigua [[altamirapre02 14-05-2026 BORRAR]]",
+        "time": "2026-05-27",
+        "rowNumber": 142,
+        "muted": true
+      }
+    ],
+    "TAREAS/Completadas/Tickets/cerrados/475552.md": [
+      {
+        "title": "🎟️ [475552](https://aurora.intranet.humv.es/aurora-ui/index.zul?idPeticionAurora=475552) → Conseguir la autorizacion",
+        "time": "2026-04-30 14:00",
+        "rowNumber": 48,
+        "muted": true
+      }
+    ],
+    "TAREAS/Completadas/Tickets/cerrados/475932.md": [
+      {
+        "title": "Borrado del snapshot de [[ecatwebpre]]",
+        "time": "2026-05-11 14:00",
+        "rowNumber": 54,
+        "muted": true
+      }
+    ],
+    "TAREAS/Completadas/Tickets/cerrados/475463.md": [
+      {
+        "title": "🎟️ [475463](https://aurora.intranet.humv.es/aurora-ui/index.zul?idPeticionAurora=475463)",
+        "time": "2026-04-30 13:00",
+        "rowNumber": 42,
+        "muted": true
+      }
+    ],
+    "TAREAS/Completadas/Tickets/cerrados/475038.md": [
+      {
+        "title": "🎟️ [475038](https://aurora.intranet.humv.es/aurora-ui/index.zul?idPeticionAurora=475038)",
+        "time": "2026-04-29 10:54",
+        "rowNumber": 42,
+        "muted": true
+      }
+    ],
+    "TAREAS/Completadas/Tickets/cerrados/474780.md": [
+      {
+        "title": "🎟️ [474780](https://aurora.intranet.humv.es/aurora-ui/index.zul?idPeticionAurora=474780)",
+        "time": "2026-04-23 09:22",
+        "rowNumber": 42,
+        "muted": true
+      }
+    ],
+    "TAREAS/Completadas/Tickets/cerrados/474220.md": [
+      {
+        "title": "🎟️ [474220](https://aurora.intranet.humv.es/aurora-ui/index.zul?idPeticionAurora=474220) → Conseguir la autorizacion",
+        "time": "2026-04-22 14:00",
+        "rowNumber": 46,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-07-21 Notas diarias.md": [
+      {
+        "title": "⚠️Revisa el 👯 Teams y el ✉️ correo!",
+        "time": "2026-07-21 09:31",
+        "rowNumber": 85,
+        "muted": true
+      },
+      {
+        "title": "==[[REVISIÓN DE TICKETS|Búsqueda de tickets urgentes]]==",
+        "time": "2026-07-21 09:30",
+        "rowNumber": 88,
+        "muted": true
+      },
+      {
+        "title": "==Parada y tareas personales==",
+        "time": "2026-07-21 14:26",
+        "rowNumber": 95,
+        "muted": false
+      },
+      {
+        "title": "==[[REVISIÓN DE TICKETS|Búsqueda de tickets urgentes]]==",
+        "time": "2026-07-21 16:00",
+        "rowNumber": 98,
+        "muted": false
+      },
+      {
+        "title": "==Parada y tareas personales==",
+        "time": "2026-07-21 19:16",
+        "rowNumber": 102,
+        "muted": false
+      },
+      {
+        "title": "==[[REVISIÓN DE TICKETS|Búsqueda de tickets urgentes]]==",
+        "time": "2026-07-21 18:00",
+        "rowNumber": 103,
+        "muted": false
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-07-03 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-07-03 15:00",
+        "rowNumber": 42,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-07-02 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-07-02 16:58",
+        "rowNumber": 67,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-06-29 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-06-29 15:00",
+        "rowNumber": 65,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-07-01 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-07-01 15:00",
+        "rowNumber": 65,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-06-30 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-06-30 15:00",
+        "rowNumber": 65,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-06-26 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-06-26 15:00",
+        "rowNumber": 67,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-06-23 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-06-23 15:00",
+        "rowNumber": 69,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-06-25 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-06-25 15:00",
+        "rowNumber": 64,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-06-22 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-06-22 15:00",
+        "rowNumber": 67,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-06-19 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-06-19 15:00",
+        "rowNumber": 65,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-06-17 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-06-17 15:00",
+        "rowNumber": 67,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-06-18 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-06-18 15:30",
+        "rowNumber": 65,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-06-15 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-06-15 15:00",
+        "rowNumber": 63,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-06-16 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-06-16 15:00",
+        "rowNumber": 65,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-06-11 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-06-11 17:15",
+        "rowNumber": 64,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-06-12 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-06-12 15:00",
+        "rowNumber": 63,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-06-10 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-06-10 15:00",
+        "rowNumber": 64,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-06-09 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-06-09 17:45",
+        "rowNumber": 64,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-06-03 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-06-03 17:15",
+        "rowNumber": 64,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-06-08 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-06-08 17:15",
+        "rowNumber": 67,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-06-05 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-06-05 17:15",
+        "rowNumber": 68,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-06-04 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-06-04 17:15",
+        "rowNumber": 67,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-05-29 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-05-29 17:48",
+        "rowNumber": 68,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-06-02 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-06-02 17:15",
+        "rowNumber": 63,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-06-01 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-06-01 17:15",
+        "rowNumber": 68,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-05-28 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-05-28 17:50",
+        "rowNumber": 66,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-05-25 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-05-25 17:45",
+        "rowNumber": 71,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-05-26 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-05-26 17:45",
+        "rowNumber": 65,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-05-22 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-05-22 17:15",
+        "rowNumber": 66,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-05-27 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-05-27 18:15",
+        "rowNumber": 68,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-05-20 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-05-20 18:15",
+        "rowNumber": 67,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-05-18 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-05-18 18:16",
+        "rowNumber": 69,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-05-19 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-05-19 18:15",
+        "rowNumber": 68,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-05-21 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-05-21 18:16",
+        "rowNumber": 67,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-05-14 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-05-14 17:15",
+        "rowNumber": 68,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-05-15 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-05-15 17:15",
+        "rowNumber": 65,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-05-13 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-05-13 17:15",
+        "rowNumber": 65,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-05-12 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-05-12 18:15",
+        "rowNumber": 65,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-05-11 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-05-11 17:15",
+        "rowNumber": 67,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-05-08 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-05-08 18:45",
+        "rowNumber": 66,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-05-06 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-05-06 18:15",
+        "rowNumber": 67,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-05-07 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-05-07 18:25",
+        "rowNumber": 68,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-05-04 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-05-04 17:15",
+        "rowNumber": 68,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-05-05 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-05-05 17:15",
+        "rowNumber": 67,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-04-30 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-04-30 17:15",
+        "rowNumber": 69,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-04-29 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-04-29 17:15",
+        "rowNumber": 69,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-04-27 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-04-27 17:15",
+        "rowNumber": 72,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-04-24 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-04-24 19:15",
+        "rowNumber": 65,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-04-23 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-04-23 17:15",
+        "rowNumber": 66,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-04-28 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-04-28 20:16",
+        "rowNumber": 68,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-04-20 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-04-20 18:58",
+        "rowNumber": 69,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-04-22 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-04-22 19:16",
+        "rowNumber": 65,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-04-21 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-04-21 18:15",
+        "rowNumber": 67,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-04-17 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-04-17 17:15",
+        "rowNumber": 67,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-04-15 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-04-15 17:15",
+        "rowNumber": 65,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/NOTAS DIARIAS/2026-04-16 Notas diarias.md": [
+      {
+        "title": "Cumple tu horario personal y **==ocúpate de las cosas importantes==**",
+        "time": "2026-04-16 17:15",
+        "rowNumber": 65,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/REUNIONES/2026-07-16 Recurso para FACTUFAR y Oracle.md": [
+      {
+        "title": "💬==[Recurso para FACTUFAR y Oracle](https://teams.microsoft.com/meet/319951773418539?p=PTDY73KcyucvDFccYs)==",
+        "time": "2026-07-16 11:07",
+        "rowNumber": 35,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/REUNIONES/2026-07-07 Clase magistral de Pablo de recuperación de correos.md": [
+      {
+        "title": "💬==[Clase magistral de Pablo de recuperación de correos]()==",
+        "time": "2026-07-07 12:10",
+        "rowNumber": 41,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/REUNIONES/2026-07-09 Pruebas monitorización SIVAIN.md": [
+      {
+        "title": "💬==[Pruebas monitorización SIVAIN ](https://teams.microsoft.com/meet/329590337258628?p=FzPLn1zRK8vWat3bLN)== ✅ 2026-07-09",
+        "time": "2026-07-09 10:00",
+        "rowNumber": 40,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/REUNIONES/2026-07-06 Reunión con la gente de BBDD para ver el tema.md": [
+      {
+        "title": "💬==[Reunión con la gente de BBDD para ver el tema]()==",
+        "time": "2026-07-06 13:00",
+        "rowNumber": 31,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/REUNIONES/2026-06-03 Problemas cuenta de correo HUMV.md": [
+      {
+        "title": "💬==[Problemas cuenta de correo HUMV](https://teams.microsoft.com/meet/390808319154483?p=J2XMjuuWLpRQwL2Xi5)==",
+        "time": "2026-06-03 12:00",
+        "rowNumber": 33,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/REUNIONES/2026-06-03 HUMV 2025 transferencia de conocimientos de la infraestructura.md": [
+      {
+        "title": "💬==[HUMV 2025 transferencia de conocimientos de la infraestructura](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWJhZWU2NDQtNGQxMy00NjgyLTg3ZTEtMDMwNTliNTlhZDI0%40thread.v2/0?context=%7b%22Tid%22%3a%22105b2061-b669-4b31-92ac-24d304d195dc%22%2c%22Oid%22%3a%22a17afa4a-3cd4-43b5-8339-36006fef5cdc%22%7d)==",
+        "time": "2026-06-03 10:00",
+        "rowNumber": 29,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/REUNIONES/2026-06-02 Caída nodo altamirapre01.md": [
+      {
+        "title": "💬==[Caída nodo altamirapre01](https://teams.microsoft.com/meet/386076482775454?p=XokHAt8FjwjfIYHsq4)== ✅ 2026-06-03",
+        "time": "2026-06-02 13:00",
+        "rowNumber": 29,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/REUNIONES/2026-07-01 Convocatoria Migración contenidos www.humv.es.md": [
+      {
+        "title": "💬==[Convocatoria Migración contenidos www.humv.es](https://teams.microsoft.com/meet/349914181033760?p=BypGLdT7ujqduOw4xk)==",
+        "time": "2026-07-01 10:00",
+        "rowNumber": 39,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/REUNIONES/2026-06-18 Correo personalizado en alertas de OPSView.md": [
+      {
+        "title": "💬==[Correo personalizado en alertas de OPSView](https://teams.microsoft.com/meet/345437682087449?p=T3O1fTvY3zW3ALUEVv)==",
+        "time": "2026-06-18 14:15",
+        "rowNumber": 29,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/REUNIONES/2026-05-19 Punto con Alfredo y Pablo (cuentas en el AD y Exchange).md": [
+      {
+        "title": "💬==[Punto con Alfredo y Pablo (cuentas en el AD y Exchange)]()==",
+        "time": "2026-05-19 13:45",
+        "rowNumber": 37,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/REUNIONES/2026-05-18 Despublicar appsxpro.humv.es.md": [
+      {
+        "title": "💬==[Despublicar appsxpro.humv.es](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjMzY2Y3ZGMtMzRkMC00ZmQ5LWIyMDYtZDVmZTRhYzQ3ZTI1%40thread.v2/0?context=%7b%22Tid%22%3a%228507f515-5241-4156-877c-924f8d5ed472%22%2c%22Oid%22%3a%2255cdf480-8a59-44c3-a724-7933176cc896%22%7d)== ✅ 2026-05-18",
+        "time": "2026-05-18 11:00",
+        "rowNumber": 39,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/REUNIONES/2026-05-05 HCDSNS-Transferencia de Servicios.md": [
+      {
+        "title": "💬==[HCDSNS-Transferencia de Servicios](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Mjg2NDY2MWYtNDk3MC00ZDE3LThjN2EtZWUwMDk3YWY0ODIx%40thread.v2/0?context=%7b%22Tid%22%3a%228975f33d-b4bc-4ef3-a26c-60d8dbd33491%22%2c%22Oid%22%3a%22c14dcb53-e6f5-4cf4-83a1-8d61489ad5ed%22%7d)==",
+        "time": "2026-05-05 11:30",
+        "rowNumber": 30,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/REUNIONES/2026-04-24 Sesión formativa PURE1.md": [
+      {
+        "title": "💬==[Sesión formativa PURE1](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWVjMDY3ZTUtMWE2Mi00ODM3LWJmN2MtYzUxZmVjMGE3NTFi%40thread.v2/0?context=%7b%22Tid%22%3a%229744600e-3e04-492e-baa1-25ec245c6f10%22%2c%22Oid%22%3a%22c337f43b-f161-48ef-bed1-70305de19dd9%22%7d)==",
+        "time": "2026-04-24 12:00",
+        "rowNumber": 39,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/REUNIONES/2026-04-24 revisión WWWPRE11 y WWWPRO11.md": [
+      {
+        "title": "💬==[revisión WWWPRE11 y WWWPRO11](https://teams.microsoft.com/meet/36821099354217?p=d2mksEFShvTzMAtmv9)==",
+        "time": "2026-04-24 11:00",
+        "rowNumber": 36,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/REUNIONES/2026-04-10 Resolución de DNSs de webs que salen afuera.md": [
+      {
+        "title": "💬==[Resolución de DNSs de webs que salen afuera](https://teams.microsoft.com/meet/35047344589524?p=hFDHNTpmZQkCrHRGmU)==",
+        "time": "2026-04-10 10:00",
+        "rowNumber": 38,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/EVENTOS CRÍTICOS/2026-07-15 Migración contenidos www.humv.es.md": [
+      {
+        "title": "💬==[Migración contenidos www.humv.es](https://teams.microsoft.com/meet/318683437334355?p=nfSIIKoIUn36CQ8sPK)==",
+        "time": "2026-07-15 15:00",
+        "rowNumber": 43,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/EVENTOS CRÍTICOS/2026-07-23 Actualización Linux.md": [
+      {
+        "title": "💬==[Actualización Linux](https://teams.microsoft.com/meet/378326888712582?p=LRSd7AsUMSd80eR8MM)==",
+        "time": "2026-07-23 10:00",
+        "rowNumber": 32,
+        "muted": false
+      }
+    ],
+    "CALENDARIO/EVENTOS CRÍTICOS/2026-06-04 Caída nodo Altamirapre01.md": [
+      {
+        "title": "💬==[Caída nodo Altamirapre01](https://teams.microsoft.com/meet/389622070386969?p=LwwpSVLDjGlxUJmSpX)==",
+        "time": "2026-06-04 09:00",
+        "rowNumber": 37,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/EVENTOS CRÍTICOS/2026-04-23 La hora de la IA.md": [
+      {
+        "title": "💬==[La hora de la IA](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjhmNGM0YjUtNjhjNi00MzljLWIyYWMtZDc0NjA2ODcwODMx%40thread.v2/0?context=%7b%22Tid%22%3a%228507f515-5241-4156-877c-924f8d5ed472%22%2c%22Oid%22%3a%229d4fb3df-a176-4f4b-baa5-40e5f4b50804%22%7d&utm_source=Solo+MJ&utm_campaign=0002384acb-Grabaci%C3%B3n+sesion+formativa+gestor+tareas_COPY_01&utm_medium=email&utm_term=0_9249010089-0002384acb-)== ✅ 2026-04-23",
+        "time": "2026-04-23 16:00",
+        "rowNumber": 43,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-07-21 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-07-21 09:30",
+        "rowNumber": 47,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-07-17 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-07-17 09:30",
+        "rowNumber": 45,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-07-16 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-07-16 09:30",
+        "rowNumber": 37,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-07-15 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-07-15 09:30",
+        "rowNumber": 47,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-07-13 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-07-13 09:30",
+        "rowNumber": 46,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-07-10 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-07-10 09:30",
+        "rowNumber": 41,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-07-14 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-07-14 09:30",
+        "rowNumber": 47,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-07-07 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-07-07 09:30",
+        "rowNumber": 46,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-07-06 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-07-06 09:30",
+        "rowNumber": 46,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-07-02 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-07-02 09:30",
+        "rowNumber": 45,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-07-01 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-07-01 09:30",
+        "rowNumber": 45,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-06-30 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-06-30 09:30",
+        "rowNumber": 45,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-06-25 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-06-25 09:30",
+        "rowNumber": 46,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-06-29 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-06-29 09:30",
+        "rowNumber": 45,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-06-23 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-06-23 09:30",
+        "rowNumber": 46,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-06-22 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-06-22 09:30",
+        "rowNumber": 45,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-06-12 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-06-12 09:30",
+        "rowNumber": 41,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-06-19 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-06-19 09:30",
+        "rowNumber": 48,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-06-11 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-06-11 09:30",
+        "rowNumber": 48,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-06-16 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-06-16 09:30",
+        "rowNumber": 47,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-06-15 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-06-15 09:30",
+        "rowNumber": 48,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-06-10 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-06-10 09:30",
+        "rowNumber": 41,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-06-05 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-06-05 09:30",
+        "rowNumber": 50,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-06-09 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-06-09 09:30",
+        "rowNumber": 47,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-06-08 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-06-08 09:30",
+        "rowNumber": 48,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-06-04 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-06-04 09:30",
+        "rowNumber": 42,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-06-01 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-06-01 09:30",
+        "rowNumber": 46,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-06-02 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-06-02 09:30",
+        "rowNumber": 47,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-05-29 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-05-29 09:30",
+        "rowNumber": 48,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-05-26 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-05-26 09:30",
+        "rowNumber": 48,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-05-27 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-05-27 09:30",
+        "rowNumber": 45,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-05-22 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-05-22 09:30",
+        "rowNumber": 46,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-05-20 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-05-20 09:30",
+        "rowNumber": 46,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-05-21 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-05-21 09:30",
+        "rowNumber": 45,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-05-12 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-05-12 09:30",
+        "rowNumber": 48,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-05-15 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-05-15 09:30",
+        "rowNumber": 46,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-05-18 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)== ✅ 2026-05-18",
+        "time": "2026-05-18 09:30",
+        "rowNumber": 41,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-05-11 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-05-11 09:30",
+        "rowNumber": 51,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-05-06 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-05-06 09:30",
+        "rowNumber": 39,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-05-05 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-05-05 09:30",
+        "rowNumber": 39,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-05-04 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-05-04 09:30",
+        "rowNumber": 40,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-05-07 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-05-07 09:30",
+        "rowNumber": 46,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-04-30 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-04-30 09:30",
+        "rowNumber": 36,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-04-29 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-04-29 09:30",
+        "rowNumber": 36,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-04-28 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-04-28 09:30",
+        "rowNumber": 36,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/COORDINACIÓN CON LOS COMPIS/2026-04-27 Seguimiento Sistemas.md": [
+      {
+        "title": "💬==[Seguimiento](https://teams.microsoft.com/meet/317581756919?p=neaYJSid6hhDkDWrK0)==",
+        "time": "2026-04-27 09:30",
+        "rowNumber": 41,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/A TENER EN CUENTA/2026-09-01 Pulpo Con 26.md": [
+      {
+        "title": "💬Recuerda que en 3 meses es la Pulpo Con 26",
+        "time": "2026-06-01",
+        "rowNumber": 20,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/A TENER EN CUENTA/2026-07-20 Estás de vacaciones.md": [
+      {
+        "title": "🌞 Estás de vacaciones",
+        "time": "2026-07-20",
+        "rowNumber": 28,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/A TENER EN CUENTA/2026-06-29 Reinicio de wwwpro10.md": [
+      {
+        "title": "💻 ==Reinicio== de [[wwwpro10]]",
+        "time": "2026-06-29 19:00",
+        "rowNumber": 22,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/A TENER EN CUENTA/2026-06-18 La hora de la Innovación.md": [
+      {
+        "title": "💬==[La hora de la Innovación](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Yzg1M2UzMTktZGU3Yy00YTkyLWI0ZmYtNjAwMTE3ZTdlNzZi%40thread.v2/0?context=%7b%22Tid%22%3a%228507f515-5241-4156-877c-924f8d5ed472%22%2c%22Oid%22%3a%229d4fb3df-a176-4f4b-baa5-40e5f4b50804%22%7d&utm_source=Solo+MJ&utm_campaign=8f53060fad-Grabaci%C3%B3n+sesion+formativa+gestor+tareas_COPY_01&utm_medium=email&utm_term=0_9249010089-8f53060fad-)==",
+        "time": "2026-06-18 13:00",
+        "rowNumber": 45,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/A TENER EN CUENTA/2026-05-14 JORNADA CONTINUA.md": [
+      {
+        "title": "JORNADA CONTINUA",
+        "time": "2026-05-14 08:00",
+        "rowNumber": 9,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/A TENER EN CUENTA/2026-05-11 Prevención cáncer de próstata y testículos.md": [
+      {
+        "title": "💬==[Prevención cáncer de próstata y testículos](https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fglobal.gotowebinar.com%2fjoin%2f4174633899507611479%2f244848501&c=E,1,B-rR5haYkB8mk_VbtGAVDhiFHci_vodMP_QyFBh2_yyC_mTbcWWwXl2oiCPpdAiInNObNlP6TfymH5Kv7yv7MuziHsnVQhCM7yXKal4-mwtr3FuYvrILm_QGKX1i&typo=1)==",
+        "time": "2026-05-11 12:00",
+        "rowNumber": 30,
+        "muted": true
+      }
+    ],
+    "CALENDARIO/A TENER EN CUENTA/2026-04-20 Cita con Rubén.md": [
+      {
+        "title": "👧 Cita con Rubén",
+        "time": "2026-04-20 10:30",
+        "rowNumber": 10,
+        "muted": true
+      }
+    ]
+  },
+  "debug": false,
+  "dndUntil": null,
+  "settings": {
+    "reminderTime": "09:00",
+    "reminderTimeStep": 15,
+    "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
+    "enableNotification": true,
+    "notificationPopupStyle": "toast",
+    "openNoteOnReminderClick": false,
+    "useSystemNotification": false,
+    "showPopupWithSystemNotification": false,
+    "focusDoneButtonOnPopup": false,
+    "showOverdueCountInStatusBar": true,
+    "autoCompleteTrigger": "(@",
+    "convertNonTaskLines": true,
+    "primaryReminderFormat": "ReminderPluginReminderFormat",
+    "editorReminderDisplay": true,
+    "enableReminderPluginReminderFormat": true,
+    "dateFormat": "YYYY-MM-DD",
+    "dateTimeFormat": "YYYY-MM-DD HH:mm",
+    "strictDateFormat": false,
+    "linkDatesToDailyNotes": false,
+    "enableTasksPluginReminderFormat": false,
+    "useCustomEmojiForTasksPlugin": false,
+    "useReminderTimeFallbackForTasksPlugin": false,
+    "removeTagsForTasksPlugin": false,
+    "enableDataviewReminderFormat": false,
+    "dataviewReminderFieldName": "reminder",
+    "enableKanbanPluginReminderFormat": false,
+    "yearMonthDisplayFormat": "YYYY, MMMM",
+    "monthDayDisplayFormat": "MM/DD",
+    "shortDateWithWeekdayDisplayFormat": "M/DD (ddd)",
+    "timeDisplayFormat": "HH:mm",
+    "weekStart": "1",
+    "excludedPaths": "WIKI DE SISTEMAS CTO DE CIGES/OBSIDIAN/plantillas",
+    "editDetectionSec": 10,
+    "reminderCheckIntervalSec": 5
+  }
+}
