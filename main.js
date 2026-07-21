@@ -3690,7 +3690,8 @@ var oi = class oi {
         return oi.checkedStatuses.some((e) => e === this.check);
     }
     setChecked(e) {
-        this.check = e ? "x" : " ";
+        // Fork Ciges: el botón "Done" marca la tarea como [p] en vez de [x]
+        this.check = e ? "p" : " ";
     }
     getHeaderLength() {
         return this.prefix.length + this.check.length + this.suffix.length;
@@ -3700,7 +3701,8 @@ var oi = class oi {
     }
 };
 h(oi, "regexp", /^(?<prefix>((> ?)*)?\s*[-*+][ ]+\[)(?<check>.)(?<suffix>\]\s+)(?<body>.*)$/),
-    h(oi, "checkedStatuses", ["x", "-"]);
+    // Fork Ciges: estados adicionales considerados completados: [p] hecho, [d] descartado, [>] delegado
+    h(oi, "checkedStatuses", ["x", "-", "p", "d", ">"]);
 var so = oi;
 function rm(r) {
     if (so.parse(0, r) !== null) return r;
