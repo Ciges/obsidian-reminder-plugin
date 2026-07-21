@@ -11831,6 +11831,10 @@ var ru = class extends iu.ItemView {
             h(this, "plugin", t);
             h(this, "onOpenReminder", o);
             h(this, "view");
+            // Fork Ciges: re-aplicar la visibilidad del nombre de nota al cambiar el ajuste
+            this.plugin.settings.showNoteNameInReminderList.rawValue.onChanged(() =>
+                this.applyNoteNameVisibility()
+            );
         }
         getViewType() {
             return qr;
@@ -11860,6 +11864,15 @@ var ru = class extends iu.ItemView {
                     },
                 },
             });
+            this.applyNoteNameVisibility(); // Fork Ciges
+        }
+        // Fork Ciges: oculta/muestra el nombre de la nota en el listado según el ajuste
+        applyNoteNameVisibility() {
+            this.contentEl &&
+                this.contentEl.toggleClass(
+                    "reminder-hide-note-name",
+                    !this.plugin.settings.showNoteNameInReminderList.value
+                );
         }
         reload() {
             this.view != null &&
@@ -14360,6 +14373,7 @@ var yr = "re-scan",
             h(this, "editDetectionSec");
             h(this, "reminderCheckIntervalSec");
             h(this, "showOverdueCountInStatusBar");
+            h(this, "showNoteNameInReminderList"); // Fork Ciges
             let e = new Kd(this.settings);
             (this.reminderTime = this.settings
                 .newSettingBuilder()
@@ -14682,6 +14696,16 @@ https://momentjs.com/docs/#/displaying/format/`
                     .desc("Show the number of overdue reminders in the status bar. Click it to open the reminder list.")
                     .toggle(!0)
                     .build(new Ae())),
+                // Fork Ciges: ocultar el nombre de la nota en el listado de recordatorios
+                (this.showNoteNameInReminderList = this.settings
+                    .newSettingBuilder()
+                    .key("showNoteNameInReminderList")
+                    .name("Show note name in reminder list")
+                    .desc(
+                        "Show the source note name next to each reminder in the reminder list view. If disabled, the note name is hidden."
+                    )
+                    .toggle(!0)
+                    .build(new Ae())),
                 this.settings
                     .newPage("Notifications")
                     .newGroup()
@@ -14736,7 +14760,8 @@ https://momentjs.com/docs/#/displaying/format/`
                         this.monthDayDisplayFormat,
                         this.shortDateWithWeekdayDisplayFormat,
                         this.timeDisplayFormat,
-                        this.weekStart
+                        this.weekStart,
+                        this.showNoteNameInReminderList // Fork Ciges
                     ),
                 this.settings
                     .newPage("Advanced")
