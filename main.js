@@ -3425,6 +3425,8 @@ var no = class {
         }
     };
 var or = Nr(wr(), 1);
+// Fork Ciges: refleja el ajuste "Add time also when task is completed" del plugin Tasks (leído de su data.json en onload)
+var _tasksAddTimeToDoneDate = !0;
 var P = class r {
         constructor(e, t) {
             h(this, "time", e);
@@ -6719,7 +6721,13 @@ var Gi = "due",
                 this.removeFieldByKey(ja);
                 return;
             }
-            let t = e instanceof P ? e.format(pc) : e;
+            // Fork Ciges: si el done date lleva hora y el plugin Tasks tiene activo "Add time also when task is completed", grabar también la hora
+            let t =
+                e instanceof P
+                    ? e.hasTimePart && _tasksAddTimeToDoneDate
+                        ? e.format("YYYY-MM-DDTHH:mm")
+                        : e.format(pc)
+                    : e;
             this.setFieldValue(ja, t);
         }
         getEndOfTimeTextIndex() {
@@ -7231,7 +7239,10 @@ var oe = class oe {
                 ? (o = Jr.toString(t))
                 : e === oe.symbolDueDate && t.hasTimePart
                   ? (o = t.format(oe.dueDateTimeFormat))
-                  : (o = t.format(oe.dateFormat))
+                  : // Fork Ciges: si el done date lleva hora (p.ej. al pulsar "Done") y el plugin Tasks tiene activo "Add time also when task is completed", grabar también la hora
+                    e === oe.symbolDoneDate && t.hasTimePart && _tasksAddTimeToDoneDate
+                    ? (o = t.format("YYYY-MM-DDTHH:mm"))
+                    : (o = t.format(oe.dateFormat))
             : (o = t),
             this.tokens.setTokenText(e, o, !0, !0, this.shouldSplitBetweenSymbolAndText(), n);
     }
@@ -14960,6 +14971,13 @@ var Cu = class extends Fg.Plugin {
                     this.ui.onLayoutReady(),
                     this.fileSystem.onload(this),
                     this._notificationWorker.startPeriodicTask();
+                // Fork Ciges: lee el ajuste "Add time also when task is completed" del plugin Tasks (si no está instalado o falla la lectura, se mantiene el valor por defecto true)
+                try {
+                    let tasksConfig = JSON.parse(
+                        await this.app.vault.adapter.read(".obsidian/plugins/obsidian-tasks-plugin/data.json")
+                    );
+                    _tasksAddTimeToDoneDate = tasksConfig.addTimeToDoneDate !== !1;
+                } catch (e) {}
             });
     }
     onunload() {

@@ -1,81 +1,215 @@
 {
   "scanned": true,
   "reminders": {
-    "WIKI DE SISTEMAS CTO DE CIGES/Parque de máquinas/HUMV-Monitorizacion/Entorno PRO/proteus4.md": [
+    "Obsidian/Calendario/Vida social/2026-08-13 Salsa (Rueda de Casino Figuras), Merengue Iniciación - Nuria González.md": [
       {
-        "title": "Revisa que el log `/var/log/maillog` se está rotando",
-        "time": "2026-07-16",
-        "rowNumber": 173,
+        "title": "🕺 Salsa (Rueda de Casino Figuras), Merengue Iniciación - Nuria González",
+        "time": "2026-08-13 20:00",
+        "rowNumber": 21,
+        "muted": false
+      }
+    ],
+    "Obsidian/Calendario/Vida social/2026-08-06 Salsa (Basico + Combinaciones) - Abrahan Moises.md": [
+      {
+        "title": "🕺 Salsa (Basico + Combinaciones) - Abrahan Moises",
+        "time": "2026-08-06 20:00",
+        "rowNumber": 21,
+        "muted": false
+      }
+    ],
+    "Obsidian/Calendario/Vida social/2026-07-28 Paddle Surf en Baiona.md": [
+      {
+        "title": "Paddle Surf en Baiona",
+        "time": "2026-07-28 18:00",
+        "rowNumber": 29,
         "muted": true
       }
     ],
-    "TAREAS/LA SEMANA QUE VIENE/Tickets/488999.md": [
+    "Obsidian/Calendario/Vida social/2026-08-12 Salsa (Básicos y figuras) - Chachacha Básico - Nuria González.md": [
       {
-        "title": "🎟️ [488999](https://aurora.intranet.humv.es/aurora-ui/index.zul?idPeticionAurora=488999) → Conseguir la autorizacion",
-        "time": "2026-07-27 14:00",
+        "title": "🕺 Salsa (Básicos y figuras) - Chachacha Básico - Nuria González",
+        "time": "2026-08-12 20:00",
+        "rowNumber": 21,
+        "muted": false
+      }
+    ],
+    "Obsidian/Calendario/Vida social/2026-08-11 Concierto de The Corrs.md": [
+      {
+        "title": "🎤 Concierto de The Corrs",
+        "time": "2026-08-11 22:00",
+        "rowNumber": 23,
+        "muted": false
+      }
+    ],
+    "Obsidian/Calendario/Un Jose Furioso/2026-08-05 Peluquería.md": [
+      {
+        "title": "✂️ Peluquería",
+        "time": "2026-08-05 16:20",
+        "rowNumber": 21,
+        "muted": false
+      }
+    ],
+    "Obsidian/Calendario/Urji/2026-09-07 URJI EMPIEZA EL CURSO.md": [
+      {
+        "title": "👧 URJI EMPIEZA EL CURSO",
+        "time": "2026-09-07",
+        "rowNumber": 17,
+        "muted": false
+      }
+    ],
+    "Obsidian/Calendario/Urji/2026-07-31 Viaje de Urji y Nolwenn a Francia.md": [
+      {
+        "title": "✈️  [[Urji]] vuelve de Francia #task [[Viaje a Francia de Nolwenn y las niñas]] [priority:: low]  [scheduled:: 2026-08-10]",
+        "time": "2026-08-10",
+        "rowNumber": 28,
+        "muted": false
+      }
+    ],
+    "Obsidian/Calendario/Noan/2026-09-09 NOAN EMPIEZA EL CURSO.md": [
+      {
+        "title": "👧 EMPIEZA EL CURSO",
+        "time": "2026-09-09",
+        "rowNumber": 16,
+        "muted": false
+      }
+    ],
+    "Obsidian/Calendario/Noan/2026-07-05 Noan se va a Francia.md": [
+      {
+        "title": "✈️ [[Noan]] vuelve de Francia #task [[Verano 2026 con las niñas]] [priority:: low]  [scheduled:: 2026-08-21]",
+        "time": "2026-08-21",
+        "rowNumber": 39,
+        "muted": false
+      }
+    ],
+    "Obsidian/Calendario/Desarrollo personal/2026-11-05 Cita con Rosa María Tomé.md": [
+      {
+        "title": "👨‍⚕️ Cita con Rosa María Tomé",
+        "time": "2026-11-05 13:45",
+        "rowNumber": 25,
+        "muted": false
+      }
+    ],
+    "Obsidian/Calendario/Citas médicas/2026-08-11 Revisión dentista.md": [
+      {
+        "title": "🦷 Revisión dentista",
+        "time": "2026-08-11 18:00",
+        "rowNumber": 24,
+        "muted": false
+      }
+    ],
+    "Obsidian/Calendario/Citas médicas/2027-03-31 Cita con Irene Ramos.md": [
+      {
+        "title": "👩‍⚕️ Cita médica con Irene Ramos",
+        "time": "2027-04-02 09:15",
+        "rowNumber": 25,
+        "muted": false
+      }
+    ],
+    "Notas/Verano 2026/Cuidado de Saba mientras Nolwenn, Noan y Urji están en Francia.md": [
+      {
+        "title": "🐈‍⬛ Da de comer y pincha a [[Saba]] #task [[Verano 2026]] [priority:: high]  [context:: 🚶, 🏠]",
+        "time": "2026-08-02 10:45",
+        "rowNumber": 17,
+        "muted": false
+      },
+      {
+        "title": "🐈‍⬛ Da de cenar y pincha a [[Saba]] #task [[Verano 2026]] [priority:: high]  [context:: 🚶, 🏠]",
+        "time": "2026-08-02 17:00",
+        "rowNumber": 18,
+        "muted": false
+      }
+    ],
+    "Notas/Un Jose Furioso/Nueva etapa 2026/Ideas a comentar con Javier Carrreño.md": [
+      {
+        "title": "Pide cita a [[Javier Carreño Villada (Psiquiatra)|Javier Carreño]]",
+        "time": "2026-08-05",
+        "rowNumber": 17,
+        "muted": false
+      }
+    ],
+    "Notas/Ordenadores y móviles/Fairphone 6.md": [
+      {
+        "title": "💸 **==204.29 €==**  2º plazo del [[Fairphone 6]] #task [[Comprar Fairphone 6]] [priority:: low]  [scheduled:: 2026-08-29]",
+        "time": "2026-08-29",
+        "rowNumber": 57,
+        "muted": false
+      },
+      {
+        "title": "💸**==204.28 €==** 3er plazo del [[Fairphone 6]] #task[[Comprar Fairphone 6]] [priority:: next-month]  [scheduled:: 2026-09-29]",
+        "time": "2026-09-29",
+        "rowNumber": 58,
+        "muted": false
+      }
+    ],
+    "Formaciones/Machine Learning e Inteligencia Artificial (info formación).md": [
+      {
+        "title": "Examen Tema 5 #task [[Machine Learning e Inteligencia Artificial]]  [priority:: normal]",
+        "time": "2026-08-05",
+        "rowNumber": 41,
+        "muted": false
+      },
+      {
+        "title": "Examen Tema 6 #task [[Machine Learning e Inteligencia Artificial]]  [priority:: low]",
+        "time": "2026-08-27",
+        "rowNumber": 42,
+        "muted": false
+      },
+      {
+        "title": "Examen Tema 7 #task [[Machine Learning e Inteligencia Artificial]]  [priority:: next-month]",
+        "time": "2026-09-07",
         "rowNumber": 43,
         "muted": false
-      }
-    ],
-    "TAREAS/LA SEMANA QUE VIENE/Tickets/488996.md": [
+      },
       {
-        "title": "🎟️ [488996](https://aurora.intranet.humv.es/aurora-ui/index.zul?idPeticionAurora=488996) → Conseguir la autorizacion",
-        "time": "2026-07-23 14:00",
+        "title": "Examen Tema 8 #task [[Machine Learning e Inteligencia Artificial]]  [priority:: next-month]",
+        "time": "2026-09-16",
+        "rowNumber": 44,
+        "muted": false
+      },
+      {
+        "title": "Examen Final #task [[Machine Learning e Inteligencia Artificial]]  [priority:: next-month]",
+        "time": "2026-09-29",
         "rowNumber": 45,
         "muted": false
-      }
-    ],
-    "TAREAS/DESPUÉS/Primitiva de la Oficina de Seresco.md": [
+      },
       {
-        "title": "Ya no tienes fondos",
-        "time": "2026-08-03",
-        "rowNumber": 37,
+        "title": "Test Igualdade #task [[Machine Learning e Inteligencia Artificial]]  [priority:: lowest]",
+        "time": "2026-10-06",
+        "rowNumber": 46,
         "muted": false
       }
     ],
-    "CALENDARIO/NOTAS DIARIAS/2026-07-21 Notas diarias.md": [
+    "Diario/2026/07/2026-07-22.md": [
       {
-        "title": "⚠️Revisa el 👯 Teams y el ✉️ correo!",
-        "time": "2026-07-21 09:31",
-        "rowNumber": 85,
-        "muted": true
-      },
-      {
-        "title": "==[[REVISIÓN DE TICKETS|Búsqueda de tickets urgentes]]==",
-        "time": "2026-07-21 09:30",
-        "rowNumber": 88,
-        "muted": true
-      },
-      {
-        "title": "==Parada y tareas personales==",
-        "time": "2026-07-21 14:26",
-        "rowNumber": 95,
-        "muted": false
-      },
-      {
-        "title": "==[[REVISIÓN DE TICKETS|Búsqueda de tickets urgentes]]==",
-        "time": "2026-07-21 16:00",
-        "rowNumber": 98,
-        "muted": false
-      },
-      {
-        "title": "==Parada y tareas personales==",
-        "time": "2026-07-21 19:16",
-        "rowNumber": 102,
-        "muted": false
-      },
-      {
-        "title": "==[[REVISIÓN DE TICKETS|Búsqueda de tickets urgentes]]==",
-        "time": "2026-07-21 18:00",
-        "rowNumber": 103,
+        "title": "Vete a buscarla #task [[Recoger a Urji cuando vuelva de Francia]]  [priority:: low]",
+        "time": "2026-08-10",
+        "rowNumber": 59,
         "muted": false
       }
     ],
-    "CALENDARIO/EVENTOS CRÍTICOS/2026-07-23 Actualización Linux.md": [
+    "Cuestiones de pasta/Compras a plazos/IPhone 17 de Urji.md": [
       {
-        "title": "💬==[Actualización Linux](https://teams.microsoft.com/meet/378326888712582?p=LRSd7AsUMSd80eR8MM)==",
-        "time": "2026-07-23 10:00",
-        "rowNumber": 32,
+        "title": "💸 Pago del plazo 2 #task [[IPhone 17 para Urji]] [priority:: low]  [due:: 2026-08-10] [context:: 💸]",
+        "time": "2026-08-10",
+        "rowNumber": 50,
+        "muted": false
+      },
+      {
+        "title": "💸 Pago del plazo 3 #task [[IPhone 17 para Urji]] [priority:: next-month]  [due:: 2026-09-09] [context:: 💸]  [priority:: lowest]",
+        "time": "2026-09-08",
+        "rowNumber": 51,
+        "muted": false
+      },
+      {
+        "title": "💸 Pago del plazo 2 #task [[IPhone 17 para Urji]] [priority:: low]  (@2026-08-10) [context:: 💸]",
+        "time": "2026-08-10",
+        "rowNumber": 50,
+        "muted": false
+      },
+      {
+        "title": "💸 Pago del plazo 3 #task [[IPhone 17 para Urji]] (@2026-09-08) [priority:: next-month]  [context:: 💸]  [priority:: lowest]",
+        "time": "2026-09-09",
+        "rowNumber": 51,
         "muted": false
       }
     ]
@@ -95,7 +229,7 @@
     "showOverdueCountInStatusBar": true,
     "autoCompleteTrigger": "(@",
     "convertNonTaskLines": true,
-    "primaryReminderFormat": "ReminderPluginReminderFormat",
+    "primaryReminderFormat": "DataviewReminderFormat",
     "editorReminderDisplay": true,
     "enableReminderPluginReminderFormat": true,
     "dateFormat": "YYYY-MM-DD",
@@ -106,7 +240,7 @@
     "useCustomEmojiForTasksPlugin": false,
     "useReminderTimeFallbackForTasksPlugin": false,
     "removeTagsForTasksPlugin": false,
-    "enableDataviewReminderFormat": false,
+    "enableDataviewReminderFormat": true,
     "dataviewReminderFieldName": "reminder",
     "enableKanbanPluginReminderFormat": false,
     "yearMonthDisplayFormat": "YYYY, MMMM",
@@ -114,8 +248,8 @@
     "shortDateWithWeekdayDisplayFormat": "M/DD (ddd)",
     "timeDisplayFormat": "HH:mm",
     "weekStart": "1",
-    "showNoteNameInReminderList": false,
-    "excludedPaths": "WIKI DE SISTEMAS CTO DE CIGES/OBSIDIAN/plantillas",
+    "showNoteNameInReminderList": true,
+    "excludedPaths": "Obsidian/Plantillas",
     "editDetectionSec": 10,
     "reminderCheckIntervalSec": 5
   }
