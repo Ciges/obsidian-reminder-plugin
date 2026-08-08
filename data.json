@@ -14,7 +14,7 @@
         "title": "🕺 Salsa (Basico + Combinaciones) - Abrahan Moises",
         "time": "2026-08-06 20:00",
         "rowNumber": 21,
-        "muted": false
+        "muted": true
       }
     ],
     "Obsidian/Calendario/Vida social/2026-07-28 Paddle Surf en Baiona.md": [
@@ -41,14 +41,6 @@
         "muted": false
       }
     ],
-    "Obsidian/Calendario/Un Jose Furioso/2026-08-05 Peluquería.md": [
-      {
-        "title": "✂️ Peluquería",
-        "time": "2026-08-05 16:20",
-        "rowNumber": 21,
-        "muted": false
-      }
-    ],
     "Obsidian/Calendario/Urji/2026-09-07 URJI EMPIEZA EL CURSO.md": [
       {
         "title": "👧 URJI EMPIEZA EL CURSO",
@@ -59,7 +51,7 @@
     ],
     "Obsidian/Calendario/Urji/2026-07-31 Viaje de Urji y Nolwenn a Francia.md": [
       {
-        "title": "✈️  [[Urji]] vuelve de Francia #task [[Viaje a Francia de Nolwenn y las niñas]] [priority:: low]  [scheduled:: 2026-08-10]",
+        "title": "✈️  [[Urji]] vuelve de Francia #task [[Viaje a Francia de Nolwenn y las niñas]] [priority:: normal]  [scheduled:: 2026-08-10]",
         "time": "2026-08-10",
         "rowNumber": 28,
         "muted": false
@@ -108,15 +100,15 @@
     "Notas/Verano 2026/Cuidado de Saba mientras Nolwenn, Noan y Urji están en Francia.md": [
       {
         "title": "🐈‍⬛ Da de comer y pincha a [[Saba]] #task [[Verano 2026]] [priority:: high]  [context:: 🚶, 🏠]",
-        "time": "2026-08-02 10:45",
-        "rowNumber": 17,
+        "time": "2026-08-08 07:00",
+        "rowNumber": 49,
         "muted": false
       },
       {
-        "title": "🐈‍⬛ Da de cenar y pincha a [[Saba]] #task [[Verano 2026]] [priority:: high]  [context:: 🚶, 🏠]",
-        "time": "2026-08-02 17:00",
-        "rowNumber": 18,
-        "muted": false
+        "title": "🐈‍⬛ Da de cenar y pincha a [[Saba]] #task [priority:: high] [context:: 🚶, 🏠]",
+        "time": "2026-08-07 16:00",
+        "rowNumber": 55,
+        "muted": true
       }
     ],
     "Notas/Un Jose Furioso/Nueva etapa 2026/Ideas a comentar con Javier Carrreño.md": [
@@ -124,30 +116,36 @@
         "title": "Pide cita a [[Javier Carreño Villada (Psiquiatra)|Javier Carreño]]",
         "time": "2026-08-05",
         "rowNumber": 17,
-        "muted": false
+        "muted": true
       }
     ],
     "Notas/Ordenadores y móviles/Fairphone 6.md": [
       {
-        "title": "💸 **==204.29 €==**  2º plazo del [[Fairphone 6]] #task [[Comprar Fairphone 6]] [priority:: low]  [scheduled:: 2026-08-29]",
+        "title": "💸 **==204.29 €==**  2º plazo del [[Fairphone 6]] #task [[Comprar Fairphone 6]]   [priority:: low]",
         "time": "2026-08-29",
-        "rowNumber": 57,
+        "rowNumber": 66,
         "muted": false
       },
       {
-        "title": "💸**==204.28 €==** 3er plazo del [[Fairphone 6]] #task[[Comprar Fairphone 6]] [priority:: next-month]  [scheduled:: 2026-09-29]",
+        "title": "💸**==204.28 €==** 3er plazo del [[Fairphone 6]] #task[[Comprar Fairphone 6]]    [priority:: next-month]",
         "time": "2026-09-29",
-        "rowNumber": 58,
+        "rowNumber": 67,
+        "muted": false
+      },
+      {
+        "title": "💸 **==35.99 €==**  2º plazo de los Fairbuds #task [[Fairphone 6]] [[Comprar Fairphone 6]]   [priority:: low]",
+        "time": "2026-08-29",
+        "rowNumber": 69,
+        "muted": false
+      },
+      {
+        "title": "💸**==35.98 €==** 3er plazo de los Fairbuds #task   [[Fairphone 6]] [[Comprar Fairphone 6]]    [priority:: next-month]",
+        "time": "2026-09-29",
+        "rowNumber": 70,
         "muted": false
       }
     ],
     "Formaciones/Machine Learning e Inteligencia Artificial (info formación).md": [
-      {
-        "title": "Examen Tema 5 #task [[Machine Learning e Inteligencia Artificial]]  [priority:: normal]",
-        "time": "2026-08-05",
-        "rowNumber": 41,
-        "muted": false
-      },
       {
         "title": "Examen Tema 6 #task [[Machine Learning e Inteligencia Artificial]]  [priority:: low]",
         "time": "2026-08-27",
@@ -181,7 +179,7 @@
     ],
     "Diario/2026/07/2026-07-22.md": [
       {
-        "title": "Vete a buscarla #task [[Recoger a Urji cuando vuelva de Francia]]  [priority:: low]",
+        "title": "Vete a buscarla #task [[Recoger a Urji cuando vuelva de Francia]]  [priority:: normal]",
         "time": "2026-08-10",
         "rowNumber": 59,
         "muted": false
@@ -189,27 +187,31 @@
     ],
     "Cuestiones de pasta/Compras a plazos/IPhone 17 de Urji.md": [
       {
-        "title": "💸 Pago del plazo 2 #task [[IPhone 17 para Urji]] [priority:: low]  [due:: 2026-08-10] [context:: 💸]",
+        "title": "💸 Pago del plazo 2 #task [[IPhone 17 para Urji]] [priority:: normal]  [context:: 💸]",
         "time": "2026-08-10",
         "rowNumber": 50,
         "muted": false
       },
       {
-        "title": "💸 Pago del plazo 3 #task [[IPhone 17 para Urji]] [priority:: next-month]  [due:: 2026-09-09] [context:: 💸]  [priority:: lowest]",
-        "time": "2026-09-08",
-        "rowNumber": 51,
-        "muted": false
-      },
-      {
-        "title": "💸 Pago del plazo 2 #task [[IPhone 17 para Urji]] [priority:: low]  (@2026-08-10) [context:: 💸]",
-        "time": "2026-08-10",
-        "rowNumber": 50,
-        "muted": false
-      },
-      {
-        "title": "💸 Pago del plazo 3 #task [[IPhone 17 para Urji]] (@2026-09-08) [priority:: next-month]  [context:: 💸]  [priority:: lowest]",
+        "title": "💸 Pago del plazo 3 #task [[IPhone 17 para Urji]] [priority:: next-month]  [context:: 💸]  [priority:: lowest]",
         "time": "2026-09-09",
         "rowNumber": 51,
+        "muted": false
+      }
+    ],
+    "Obsidian/Calendario/Vida social/2026-08-07 Paddle Surf con Fis y Gus en Bouzas.md": [
+      {
+        "title": "Paddle Surf con Fis y Gus en Bouzas",
+        "time": "2026-08-07 18:00",
+        "rowNumber": 27,
+        "muted": false
+      }
+    ],
+    "Obsidian/Calendario/Un Jose Furioso/2026-08-19 Peluquería.md": [
+      {
+        "title": "✂️ Peluquería! Pide cita para el miércoles 19",
+        "time": "2026-08-17 12:00",
+        "rowNumber": 21,
         "muted": false
       }
     ]
