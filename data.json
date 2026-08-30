@@ -1,59 +1,11 @@
 {
   "scanned": true,
   "reminders": {
-    "Obsidian/Calendario/Vida social/2026-08-13 Salsa (Rueda de Casino Figuras), Merengue Iniciación - Nuria González.md": [
-      {
-        "title": "🕺 Salsa (Rueda de Casino Figuras), Merengue Iniciación - Nuria González",
-        "time": "2026-08-13 20:00",
-        "rowNumber": 21,
-        "muted": false
-      }
-    ],
-    "Obsidian/Calendario/Vida social/2026-08-06 Salsa (Basico + Combinaciones) - Abrahan Moises.md": [
-      {
-        "title": "🕺 Salsa (Basico + Combinaciones) - Abrahan Moises",
-        "time": "2026-08-06 20:00",
-        "rowNumber": 21,
-        "muted": true
-      }
-    ],
-    "Obsidian/Calendario/Vida social/2026-07-28 Paddle Surf en Baiona.md": [
-      {
-        "title": "Paddle Surf en Baiona",
-        "time": "2026-07-28 18:00",
-        "rowNumber": 29,
-        "muted": true
-      }
-    ],
-    "Obsidian/Calendario/Vida social/2026-08-12 Salsa (Básicos y figuras) - Chachacha Básico - Nuria González.md": [
-      {
-        "title": "🕺 Salsa (Básicos y figuras) - Chachacha Básico - Nuria González",
-        "time": "2026-08-12 20:00",
-        "rowNumber": 21,
-        "muted": false
-      }
-    ],
-    "Obsidian/Calendario/Vida social/2026-08-11 Concierto de The Corrs.md": [
-      {
-        "title": "🎤 Concierto de The Corrs",
-        "time": "2026-08-11 22:00",
-        "rowNumber": 23,
-        "muted": false
-      }
-    ],
     "Obsidian/Calendario/Urji/2026-09-07 URJI EMPIEZA EL CURSO.md": [
       {
         "title": "👧 URJI EMPIEZA EL CURSO",
         "time": "2026-09-07",
         "rowNumber": 17,
-        "muted": false
-      }
-    ],
-    "Obsidian/Calendario/Urji/2026-07-31 Viaje de Urji y Nolwenn a Francia.md": [
-      {
-        "title": "✈️  [[Urji]] vuelve de Francia #task [[Viaje a Francia de Nolwenn y las niñas]] [priority:: normal]  [scheduled:: 2026-08-10]",
-        "time": "2026-08-10",
-        "rowNumber": 28,
         "muted": false
       }
     ],
@@ -65,27 +17,11 @@
         "muted": false
       }
     ],
-    "Obsidian/Calendario/Noan/2026-07-05 Noan se va a Francia.md": [
-      {
-        "title": "✈️ [[Noan]] vuelve de Francia #task [[Verano 2026 con las niñas]] [priority:: low]  [scheduled:: 2026-08-21]",
-        "time": "2026-08-21",
-        "rowNumber": 39,
-        "muted": false
-      }
-    ],
     "Obsidian/Calendario/Desarrollo personal/2026-11-05 Cita con Rosa María Tomé.md": [
       {
         "title": "👨‍⚕️ Cita con Rosa María Tomé",
         "time": "2026-11-05 13:45",
         "rowNumber": 25,
-        "muted": false
-      }
-    ],
-    "Obsidian/Calendario/Citas médicas/2026-08-11 Revisión dentista.md": [
-      {
-        "title": "🦷 Revisión dentista",
-        "time": "2026-08-11 18:00",
-        "rowNumber": 24,
         "muted": false
       }
     ],
@@ -97,61 +33,7 @@
         "muted": false
       }
     ],
-    "Notas/Verano 2026/Cuidado de Saba mientras Nolwenn, Noan y Urji están en Francia.md": [
-      {
-        "title": "🐈‍⬛ Da de comer y pincha a [[Saba]] #task [[Verano 2026]] [priority:: high]  [context:: 🚶, 🏠]",
-        "time": "2026-08-08 07:00",
-        "rowNumber": 49,
-        "muted": false
-      },
-      {
-        "title": "🐈‍⬛ Da de cenar y pincha a [[Saba]] #task [priority:: high] [context:: 🚶, 🏠]",
-        "time": "2026-08-07 16:00",
-        "rowNumber": 55,
-        "muted": true
-      }
-    ],
-    "Notas/Un Jose Furioso/Nueva etapa 2026/Ideas a comentar con Javier Carrreño.md": [
-      {
-        "title": "Pide cita a [[Javier Carreño Villada (Psiquiatra)|Javier Carreño]]",
-        "time": "2026-08-05",
-        "rowNumber": 17,
-        "muted": true
-      }
-    ],
-    "Notas/Ordenadores y móviles/Fairphone 6.md": [
-      {
-        "title": "💸 **==204.29 €==**  2º plazo del [[Fairphone 6]] #task [[Comprar Fairphone 6]]   [priority:: low]",
-        "time": "2026-08-29",
-        "rowNumber": 66,
-        "muted": false
-      },
-      {
-        "title": "💸**==204.28 €==** 3er plazo del [[Fairphone 6]] #task[[Comprar Fairphone 6]]    [priority:: next-month]",
-        "time": "2026-09-29",
-        "rowNumber": 67,
-        "muted": false
-      },
-      {
-        "title": "💸 **==35.99 €==**  2º plazo de los Fairbuds #task [[Fairphone 6]] [[Comprar Fairphone 6]]   [priority:: low]",
-        "time": "2026-08-29",
-        "rowNumber": 69,
-        "muted": false
-      },
-      {
-        "title": "💸**==35.98 €==** 3er plazo de los Fairbuds #task   [[Fairphone 6]] [[Comprar Fairphone 6]]    [priority:: next-month]",
-        "time": "2026-09-29",
-        "rowNumber": 70,
-        "muted": false
-      }
-    ],
     "Formaciones/Machine Learning e Inteligencia Artificial (info formación).md": [
-      {
-        "title": "Examen Tema 6 #task [[Machine Learning e Inteligencia Artificial]]  [priority:: low]",
-        "time": "2026-08-27",
-        "rowNumber": 42,
-        "muted": false
-      },
       {
         "title": "Examen Tema 7 #task [[Machine Learning e Inteligencia Artificial]]  [priority:: next-month]",
         "time": "2026-09-07",
@@ -177,41 +59,69 @@
         "muted": false
       }
     ],
-    "Diario/2026/07/2026-07-22.md": [
+    "Notas/Ordenadores y móviles/IPhone 17 de Urji.md": [
       {
-        "title": "Vete a buscarla #task [[Recoger a Urji cuando vuelva de Francia]]  [priority:: normal]",
-        "time": "2026-08-10",
-        "rowNumber": 59,
-        "muted": false
-      }
-    ],
-    "Cuestiones de pasta/Compras a plazos/IPhone 17 de Urji.md": [
-      {
-        "title": "💸 Pago del plazo 2 #task [[IPhone 17 para Urji]] [priority:: normal]  [context:: 💸]",
-        "time": "2026-08-10",
-        "rowNumber": 50,
-        "muted": false
-      },
-      {
-        "title": "💸 Pago del plazo 3 #task [[IPhone 17 para Urji]] [priority:: next-month]  [context:: 💸]  [priority:: lowest]",
+        "title": "💸 Pago del plazo 3 #task [[IPhone 17 para Urji]]  [priority:: next-month]  [context:: 💸]",
         "time": "2026-09-09",
         "rowNumber": 51,
         "muted": false
       }
     ],
-    "Obsidian/Calendario/Vida social/2026-08-07 Paddle Surf con Fis y Gus en Bouzas.md": [
+    "Notas/Búsqueda de pareja/Una pareja estupenda.md": [
       {
-        "title": "Paddle Surf con Fis y Gus en Bouzas",
-        "time": "2026-08-07 18:00",
-        "rowNumber": 27,
+        "title": "Deja la pornografía completamente #task [[NoFAP]] [[Dopamina Detox]] [context:: 💻]   [priority:: lowest]",
+        "time": "2026-11-11",
+        "rowNumber": 50,
         "muted": false
       }
     ],
-    "Obsidian/Calendario/Un Jose Furioso/2026-08-19 Peluquería.md": [
+    "Obsidian/Calendario/Desarrollo profesional/2026-08-26 Reunión en la Asesoría Jurídica.md": [
       {
-        "title": "✂️ Peluquería! Pide cita para el miércoles 19",
-        "time": "2026-08-17 12:00",
+        "title": "Reunión en la Asesoría Jurídica",
+        "time": "2026-08-26 13:00",
         "rowNumber": 21,
+        "muted": true
+      }
+    ],
+    "Obsidian/Calendario/Vida social/2026-08-20 Kizomba (Ginga Banca Estilo Leader y Follower, Combinaciones Leader y Follower).md": [
+      {
+        "title": "Kizomba (Ginga Banca Estilo Leader y Follower, Combinaciones Leader y Follower)",
+        "time": "2026-08-20 20:00",
+        "rowNumber": 28,
+        "muted": true
+      }
+    ],
+    "Notas/Ordenadores y móviles/Fairphone 6 (y auriculares Fairbuds).md": [
+      {
+        "title": "💸 **==204.29 €==**  2º plazo del [[Fairphone 6 (y auriculares Fairbuds)]] #task [[Comprar Fairphone 6]]   [priority:: medium]",
+        "time": "2026-08-29",
+        "rowNumber": 90,
+        "muted": false
+      },
+      {
+        "title": "💸**==204.28 €==** 3er plazo del [[Fairphone 6 (y auriculares Fairbuds)]] #task[[Comprar Fairphone 6]]    [priority:: next-month]",
+        "time": "2026-09-29",
+        "rowNumber": 91,
+        "muted": false
+      },
+      {
+        "title": "💸 **==35.99 €==**  2º plazo de los Fairbuds #task [[Fairphone 6 (y auriculares Fairbuds)]] [[Comprar Fairphone 6]]   [priority:: medium]",
+        "time": "2026-08-29",
+        "rowNumber": 93,
+        "muted": false
+      },
+      {
+        "title": "💸**==35.98 €==** 3er plazo de los Fairbuds #task   [[Fairphone 6 (y auriculares Fairbuds)]] [[Comprar Fairphone 6]]    [priority:: next-month]",
+        "time": "2026-09-29",
+        "rowNumber": 94,
+        "muted": false
+      }
+    ],
+    "Obsidian/Calendario/Desarrollo profesional/2026-09-03 Cita con Rosana.md": [
+      {
+        "title": "💬==Cita con Rosana==",
+        "time": "2026-09-03 09:30",
+        "rowNumber": 20,
         "muted": false
       }
     ]
