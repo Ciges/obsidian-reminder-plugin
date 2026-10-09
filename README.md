@@ -11,10 +11,11 @@ All changes live in `main.js` (and `styles.css` for the last one), marked with a
 
 Changes 1 and 2 adapt the plugin to a workflow that uses custom task-checkbox states:
 
-1. **Extra statuses treated as completed** — `checkedStatuses` extended from `["x", "-"]` to `["x", "-", "p", "d", ">"]`. This stops reminders from firing on tasks already finished as:
+1. **Extra statuses treated as completed** — `checkedStatuses` extended from `["x", "-"]` to `["x", "-", "p", "d", "c"]`. This stops reminders from firing on tasks already finished as:
    - `[p]` — done correctly
    - `[d]` — discarded
-   - `[>]` — delegated
+   - `[c]` — KO: impossible to complete for external reasons
+   - (`[>]` delegated is deliberately **not** included: a delegated task is still pending)
    - (`[-]` "unnecessary" was already in the original)
 2. **"Done" button marks `[p]`** — `setChecked` changed so the reminder's "Done" button sets the task to `[p]` instead of `[x]` (`this.check = e ? "p" : " "`).
 
