@@ -1,6 +1,62 @@
 {
   "scanned": true,
   "reminders": {
+    "Obsidian/Calendario/Tus padres/2026-10-05 Comida del Pilar.md": [
+      {
+        "title": "🍕 Comida del Pilar",
+        "time": "2026-10-12 14:00",
+        "rowNumber": 22,
+        "muted": false
+      }
+    ],
+    "Obsidian/Calendario/Noan/2026-10-21 DÍA NO LECTIVO COIA 2.md": [
+      {
+        "title": "👧 DÍA NO LECTIVO COIA 2",
+        "time": "2026-10-21",
+        "rowNumber": 18,
+        "muted": false
+      }
+    ],
+    "Obsidian/Calendario/Noan/2026-10-13 DIA NO LECTIVO COIA 2.md": [
+      {
+        "title": "👧 DIA NO LECTIVO COIA 2",
+        "time": "2026-10-13",
+        "rowNumber": 19,
+        "muted": false
+      }
+    ],
+    "Obsidian/Calendario/Fechas señaladas/2026-10-12 DIA DEL PILAR.md": [
+      {
+        "title": "📆 DIA DEL PILAR",
+        "time": "2026-10-12",
+        "rowNumber": 12,
+        "muted": false
+      }
+    ],
+    "Obsidian/Calendario/Eventos críticos/2026-11-29 ELECCIONES.md": [
+      {
+        "title": "<mark class=\"hltr-al-loro\">🏛️ ELECCIONES</mark>",
+        "time": "2026-11-29",
+        "rowNumber": 18,
+        "muted": false
+      }
+    ],
+    "Obsidian/Calendario/Desarrollo profesional/2026-10-23 Cita de orientación laboral.md": [
+      {
+        "title": "⛑️ Cita de orientación laboral",
+        "time": "2026-10-23 09:30",
+        "rowNumber": 29,
+        "muted": false
+      }
+    ],
+    "Obsidian/Calendario/Desarrollo profesional/2026-10-13 Cita en la Oficina de Empleo de Navia.md": [
+      {
+        "title": "🏛️ Cita en la Oficina de Empleo de Navia",
+        "time": "2026-10-13 13:30",
+        "rowNumber": 25,
+        "muted": false
+      }
+    ],
     "Obsidian/Calendario/Desarrollo personal/2026-11-05 Cita con Rosa María Tomé.md": [
       {
         "title": "👨‍⚕️ Cita con Rosa María Tomé",
@@ -13,129 +69,23 @@
       {
         "title": "👩‍⚕️ Cita médica con Irene Ramos",
         "time": "2027-04-02 09:15",
-        "rowNumber": 25,
+        "rowNumber": 26,
         "muted": false
       }
     ],
-    "Formaciones/Machine Learning e Inteligencia Artificial (info formación).md": [
+    "Notas/Familia/Noan (notas)/Clases de guitarra para Noan (notas).md": [
       {
-        "title": "Examen Tema 8 #task [[Machine Learning e Inteligencia Artificial]]   [priority:: medium]",
-        "time": "2026-09-16",
-        "rowNumber": 44,
-        "muted": false
-      },
-      {
-        "title": "Examen Final #task [[Machine Learning e Inteligencia Artificial]]   [priority:: low]",
-        "time": "2026-09-29",
-        "rowNumber": 45,
-        "muted": false
-      },
-      {
-        "title": "Test Igualdade #task [[Machine Learning e Inteligencia Artificial]]   [priority:: next-month]",
-        "time": "2026-10-06",
-        "rowNumber": 46,
-        "muted": false
-      }
-    ],
-    "Notas/Búsqueda de pareja/Una pareja estupenda.md": [
-      {
-        "title": "Deja la pornografía completamente #task [[NoFAP]] [[Dopamina Detox]] [context:: 💻]   [priority:: lowest]",
-        "time": "2027-09-06",
-        "rowNumber": 50,
-        "muted": false
-      }
-    ],
-    "Obsidian/Calendario/Cuestiones de pasta/2026-09-23 Cita en el SMAC.md": [
-      {
-        "title": "💸 Cita en el SMAC",
-        "time": "2026-09-23 10:45",
+        "title": "Documentación #task [[Clases de guitarra para Noan]]  [priority:: normal]",
+        "time": "2026-10-15",
         "rowNumber": 23,
         "muted": false
       }
     ],
-    "Obsidian/Calendario/Vida social/2026-09-11 Kizomba - Iniciación.md": [
+    "Obsidian/Calendario/Noan/2026-10-14 Reunión ANPA Coia 2.md": [
       {
-        "title": "Kizomba - Iniciación",
-        "time": "2026-09-11 18:00",
-        "rowNumber": 20,
-        "muted": true
-      }
-    ],
-    "Obsidian/Calendario/Vida social/2026-09-09 Kizomba - Iniciación 1.md": [
-      {
-        "title": "Kizomba - Iniciación 1",
-        "time": "2026-09-09 18:00",
-        "rowNumber": 20,
-        "muted": true
-      }
-    ],
-    "Obsidian/Calendario/Vida social/2026-09-09 Bachata - Iniciación 1.md": [
-      {
-        "title": "Bachata - Iniciación 1",
-        "time": "2026-09-09 19:00",
-        "rowNumber": 21,
-        "muted": true
-      }
-    ],
-    "Notas/Ordenadores y móviles/Móviles/Fairphone 6 (y auriculares Fairbuds).md": [
-      {
-        "title": "💸**==204.28 €==** 3er plazo del [[Fairphone 6 (y auriculares Fairbuds)]] #task[[Comprar Fairphone 6]]    [priority:: low]",
-        "time": "2026-09-29",
-        "rowNumber": 95,
-        "muted": false
-      },
-      {
-        "title": "💸**==35.98 €==** 3er plazo de los Fairbuds #task   [[Fairphone 6 (y auriculares Fairbuds)]] [[Comprar Fairphone 6]]    [priority:: low]",
-        "time": "2026-09-29",
-        "rowNumber": 98,
-        "muted": false
-      }
-    ],
-    "Diario/2026/09/2026-09-06.md": [
-      {
-        "title": "Envíale un audio a [[Pili]] explicándole el lamentable comportamiento de [[Nico]] #task [[Apoyo en el desarrollo personal de Nico]]   [priority:: high]",
-        "time": "2026-09-09 16:25",
-        "rowNumber": 63,
-        "muted": true
-      }
-    ],
-    "Obsidian/Calendario/A tener en cuenta/2026-09-18 Pasa por la oficina de Seresco.md": [
-      {
-        "title": "Pasa por la oficina de Seresco #task  [[Despido de Seresco]]  [priority:: normal]",
-        "time": "2026-09-18 10:30",
-        "rowNumber": 30,
-        "muted": false
-      }
-    ],
-    "Obsidian/Calendario/Cuestiones de pasta/2026-09-28 Cita en el SMAC (Marcelo y María).md": [
-      {
-        "title": "💬==Cita en el SMAC (Marcelo y María)==",
-        "time": "2026-09-28 10:00",
-        "rowNumber": 22,
-        "muted": false
-      }
-    ],
-    "Obsidian/Calendario/Familia de Pili/2026-09-15 Echas una mano a Pili para mover el mueble.md": [
-      {
-        "title": "🧘‍♀️ Echas una mano a Pili para mover el mueble",
-        "time": "2026-09-15 20:00",
-        "rowNumber": 20,
-        "muted": false
-      }
-    ],
-    "Obsidian/Calendario/Deportes/2026-09-19 MQA Maisqueauga Playa de Canido - Montes de Coruxo y Saians.md": [
-      {
-        "title": "🚵‍♂️ MQA Maisqueauga Playa de Canido - Montes de Coruxo y Saians",
-        "time": "2026-09-19 09:30",
-        "rowNumber": 19,
-        "muted": false
-      }
-    ],
-    "Obsidian/Calendario/Un Jose Furioso/2026-09-15 Peluquería.md": [
-      {
-        "title": "✂️ Peluquería",
-        "time": "2026-09-15 13:20",
-        "rowNumber": 19,
+        "title": "👧 Reunión ANPA Coia 2",
+        "time": "2026-10-14 18:30",
+        "rowNumber": 24,
         "muted": false
       }
     ]

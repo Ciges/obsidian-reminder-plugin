@@ -3703,8 +3703,8 @@ var oi = class oi {
     }
 };
 h(oi, "regexp", /^(?<prefix>((> ?)*)?\s*[-*+][ ]+\[)(?<check>.)(?<suffix>\]\s+)(?<body>.*)$/),
-    // Fork Ciges: estados adicionales considerados completados: [p] hecho, [d] descartado, [>] delegado
-    h(oi, "checkedStatuses", ["x", "-", "p", "d", ">"]);
+    // Fork Ciges: estados adicionales considerados completados: [p] hecho, [d] descartado, [c] imposible de completar ([>] delegado sigue pendiente)
+    h(oi, "checkedStatuses", ["x", "-", "p", "d", "c"]);
 var so = oi;
 function rm(r) {
     if (so.parse(0, r) !== null) return r;
