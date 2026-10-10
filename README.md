@@ -17,6 +17,7 @@ Changes 1 and 2 adapt the plugin to a workflow that uses custom task-checkbox st
    - `[c]` — KO: impossible to complete for external reasons
    - (`[>]` delegated is deliberately **not** included: a delegated task is still pending)
    - (`[-]` "unnecessary" was already in the original)
+   - These are only the defaults: on load the list is **replaced by the statuses of type `DONE` or `CANCELLED` read from the Tasks plugin's `data.json`** (`statusSettings`), and reloaded when that file changes. So `[*]` (selected) and `[>]` (delegated), both type `TODO`, are pending and keep generating reminders, and any new status added in Tasks is picked up automatically.
 2. **"Done" button marks `[p]`** — `setChecked` changed so the reminder's "Done" button sets the task to `[p]` instead of `[x]` (`this.check = e ? "p" : " "`).
 
 Change 3 is a new feature:

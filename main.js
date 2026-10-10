@@ -3703,7 +3703,7 @@ var oi = class oi {
     }
 };
 h(oi, "regexp", /^(?<prefix>((> ?)*)?\s*[-*+][ ]+\[)(?<check>.)(?<suffix>\]\s+)(?<body>.*)$/),
-    // Fork Ciges: estados adicionales considerados completados: [p] hecho, [d] descartado, [c] imposible de completar ([>] delegado sigue pendiente)
+    // Fork Ciges: estados completados por defecto (se sustituyen por los de Tasks, tipos DONE y CANCELLED, al cargar): [p] hecho, [d] descartado, [c] imposible de completar ([>] delegado y [*] seleccionada siguen pendientes)
     h(oi, "checkedStatuses", ["x", "-", "p", "d", "c"]);
 var so = oi;
 function rm(r) {
@@ -14978,6 +14978,23 @@ var Cu = class extends Fg.Plugin {
                     );
                     _tasksAddTimeToDoneDate = tasksConfig.addTimeToDoneDate !== !1;
                 } catch (e) {}
+                // Fork Ciges: estados completados (DONE y CANCELLED) leídos de la configuración de Tasks; se recargan si cambia su data.json
+                const tasksDataPath = ".obsidian/plugins/obsidian-tasks-plugin/data.json";
+                const loadCheckedStatuses = async () => {
+                    try {
+                        let ss = JSON.parse(await this.app.vault.adapter.read(tasksDataPath)).statusSettings;
+                        let list = [...(ss.coreStatuses || []), ...(ss.customStatuses || [])]
+                            .filter((st) => st.symbol && st.symbol.length === 1 && (st.type === "DONE" || st.type === "CANCELLED"))
+                            .map((st) => st.symbol);
+                        if (list.length > 0) so.checkedStatuses = Array.from(new Set([...list, "X"]));
+                    } catch (e) {}
+                };
+                await loadCheckedStatuses();
+                this.registerEvent(
+                    this.app.vault.on("modify", (file) => {
+                        if (file.path === tasksDataPath) loadCheckedStatuses().then(() => this.fileSystem.reloadRemindersInAllFiles());
+                    })
+                );
             });
     }
     onunload() {
