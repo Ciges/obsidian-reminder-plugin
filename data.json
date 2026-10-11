@@ -73,20 +73,20 @@
         "muted": false
       }
     ],
-    "Notas/Familia/Noan (notas)/Clases de guitarra para Noan (notas).md": [
-      {
-        "title": "Documentación #task [[Clases de guitarra para Noan]]  [priority:: normal]",
-        "time": "2026-10-15",
-        "rowNumber": 23,
-        "muted": false
-      }
-    ],
     "Obsidian/Calendario/Noan/2026-10-14 Reunión ANPA Coia 2.md": [
       {
         "title": "👧 Reunión ANPA Coia 2",
         "time": "2026-10-14 18:30",
         "rowNumber": 24,
         "muted": false
+      }
+    ],
+    "Obsidian/Calendario/Noan/2026-10-11 Estás con Noan.md": [
+      {
+        "title": "👧 Estás con Noan",
+        "time": "2026-10-11 13:30",
+        "rowNumber": 21,
+        "muted": true
       }
     ]
   },
