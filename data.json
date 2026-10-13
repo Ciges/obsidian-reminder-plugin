@@ -1,14 +1,6 @@
 {
   "scanned": true,
   "reminders": {
-    "Obsidian/Calendario/Tus padres/2026-10-05 Comida del Pilar.md": [
-      {
-        "title": "🍕 Comida del Pilar",
-        "time": "2026-10-12 14:00",
-        "rowNumber": 25,
-        "muted": false
-      }
-    ],
     "Obsidian/Calendario/Noan/2026-10-21 DÍA NO LECTIVO COIA 2.md": [
       {
         "title": "👧 DÍA NO LECTIVO COIA 2",
@@ -22,15 +14,7 @@
         "title": "👧 DIA NO LECTIVO COIA 2",
         "time": "2026-10-13",
         "rowNumber": 19,
-        "muted": false
-      }
-    ],
-    "Obsidian/Calendario/Fechas señaladas/2026-10-12 DIA DEL PILAR.md": [
-      {
-        "title": "📆 DIA DEL PILAR",
-        "time": "2026-10-12",
-        "rowNumber": 12,
-        "muted": false
+        "muted": true
       }
     ],
     "Obsidian/Calendario/Eventos críticos/2026-11-29 ELECCIONES.md": [
@@ -79,14 +63,6 @@
         "time": "2026-10-14 18:30",
         "rowNumber": 24,
         "muted": false
-      }
-    ],
-    "Obsidian/Calendario/Noan/2026-10-11 Estás con Noan.md": [
-      {
-        "title": "👧 Estás con Noan",
-        "time": "2026-10-11 13:30",
-        "rowNumber": 21,
-        "muted": true
       }
     ]
   },
