@@ -9,14 +9,6 @@
         "muted": false
       }
     ],
-    "Obsidian/Calendario/Noan/2026-10-13 DIA NO LECTIVO COIA 2.md": [
-      {
-        "title": "👧 DIA NO LECTIVO COIA 2",
-        "time": "2026-10-13",
-        "rowNumber": 19,
-        "muted": true
-      }
-    ],
     "Obsidian/Calendario/Eventos críticos/2026-11-29 ELECCIONES.md": [
       {
         "title": "<mark class=\"hltr-al-loro\">🏛️ ELECCIONES</mark>",
@@ -30,14 +22,6 @@
         "title": "⛑️ Cita de orientación laboral",
         "time": "2026-10-23 09:30",
         "rowNumber": 29,
-        "muted": false
-      }
-    ],
-    "Obsidian/Calendario/Desarrollo profesional/2026-10-13 Cita en la Oficina de Empleo de Navia.md": [
-      {
-        "title": "🏛️ Cita en la Oficina de Empleo de Navia",
-        "time": "2026-10-13 13:30",
-        "rowNumber": 25,
         "muted": false
       }
     ],
@@ -57,11 +41,27 @@
         "muted": false
       }
     ],
-    "Obsidian/Calendario/Noan/2026-10-14 Reunión ANPA Coia 2.md": [
+    "Obsidian/Calendario/Noan/2026-10-27 Jornada de Puertas Abiertas Prado Surf.md": [
       {
-        "title": "👧 Reunión ANPA Coia 2",
-        "time": "2026-10-14 18:30",
-        "rowNumber": 24,
+        "title": "👧 Jornada de Puertas Abiertas Prado Surf",
+        "time": "2026-10-27",
+        "rowNumber": 26,
+        "muted": false
+      }
+    ],
+    "Obsidian/Calendario/Vida social/2026-10-17 Quedada Vivien y Mari.md": [
+      {
+        "title": "🍺 Quedada Vivien y Mari",
+        "time": "2026-10-17 12:00",
+        "rowNumber": 18,
+        "muted": false
+      }
+    ],
+    "Obsidian/Calendario/Hogar/2026-10-19 Te llegan las compras.md": [
+      {
+        "title": "🛒 Te llegan las compras",
+        "time": "2026-10-19 09:00",
+        "rowNumber": 14,
         "muted": false
       }
     ]
