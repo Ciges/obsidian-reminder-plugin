@@ -13,7 +13,7 @@
       {
         "title": "⛑️ Cita de orientación laboral",
         "time": "2026-10-23 09:30",
-        "rowNumber": 33,
+        "rowNumber": 35,
         "muted": true
       }
     ],
@@ -41,11 +41,19 @@
         "muted": false
       }
     ],
-    "Obsidian/Calendario/Noan/2026-10-26  EDUCACIÓN SEXUAL  (PARA FAMILIAS DE ADOLESCENTES).md": [
+    "Obsidian/Calendario/Desarrollo profesional/2026-11-24 Cita de orientación laboral.md": [
+      {
+        "title": "🏛️ Cita de orientacón laboral",
+        "time": "2026-11-24 09:30",
+        "rowNumber": 25,
+        "muted": false
+      }
+    ],
+    "Obsidian/Calendario/No fuiste/2026-10-26  EDUCACIÓN SEXUAL  (PARA FAMILIAS DE ADOLESCENTES).md": [
       {
         "title": "👧  EDUCACIÓN SEXUAL  (PARA FAMILIAS DE ADOLESCENTES)",
         "time": "2026-10-26 17:00",
-        "rowNumber": 24,
+        "rowNumber": 25,
         "muted": false
       }
     ]
