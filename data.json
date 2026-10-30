@@ -9,14 +9,6 @@
         "muted": false
       }
     ],
-    "Obsidian/Calendario/Desarrollo profesional/2026-10-23 Cita de orientación laboral.md": [
-      {
-        "title": "⛑️ Cita de orientación laboral",
-        "time": "2026-10-23 09:30",
-        "rowNumber": 35,
-        "muted": true
-      }
-    ],
     "Obsidian/Calendario/Desarrollo personal/2026-11-05 Cita con Rosa María Tomé.md": [
       {
         "title": "👨‍⚕️ Cita con Rosa María Tomé",
@@ -37,16 +29,8 @@
       {
         "title": "🏛️ Cita de orientacón laboral",
         "time": "2026-11-24 09:30",
-        "rowNumber": 25,
+        "rowNumber": 28,
         "muted": false
-      }
-    ],
-    "Obsidian/Calendario/Desarrollo profesional/2026-10-26 Conversación con el director del CIFP de Coia.md": [
-      {
-        "title": "Conversación con el director del CIFP de Coia",
-        "time": "2026-10-26 12:30",
-        "rowNumber": 21,
-        "muted": true
       }
     ],
     "Obsidian/Calendario/A tener en cuenta/2026-11-13 Entrevistas Jordi Wild.md": [
@@ -54,6 +38,14 @@
         "title": "🎙️ Entrevistas Jordi Wild",
         "time": "2026-11-13",
         "rowNumber": 18,
+        "muted": false
+      }
+    ],
+    "Obsidian/Calendario/Carreras/2026-11-01 BTT de la playa a la montaña (Sierra de la Groba).md": [
+      {
+        "title": "Apúntate a la salida en bici de este domingo #task [[Conviértete en alguien fuerte|Ponte fuerte]] [context:: 🚶]  [priority:: highest]",
+        "time": "2026-10-30",
+        "rowNumber": 31,
         "muted": false
       }
     ]
