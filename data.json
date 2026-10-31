@@ -41,11 +41,27 @@
         "muted": false
       }
     ],
-    "Obsidian/Calendario/Carreras/2026-11-01 BTT de la playa a la montaña (Sierra de la Groba).md": [
+    "Obsidian/Calendario/Vida social/2026-11-14 Cena de Navidad Studio 19.md": [
       {
-        "title": "Apúntate a la salida en bici de este domingo #task [[Conviértete en alguien fuerte|Ponte fuerte]] [context:: 🚶]  [priority:: highest]",
-        "time": "2026-10-30",
+        "title": "🥩 Cena de Navidad Studio 19",
+        "time": "2026-11-14 21:00",
+        "rowNumber": 33,
+        "muted": false
+      }
+    ],
+    "Obsidian/Calendario/Vida social/2026-10-31 Cena RV Entrenamiento Personal.md": [
+      {
+        "title": "🥩 Cena RV Entrenamiento Personal",
+        "time": "2026-10-31 21:30",
         "rowNumber": 31,
+        "muted": false
+      }
+    ],
+    "Obsidian/Calendario/Vida social/2026-12-12 Quedada Studio 19.md": [
+      {
+        "title": "🍺 Quedada Studio 19",
+        "time": "2026-12-12 19:00",
+        "rowNumber": 32,
         "muted": false
       }
     ]
