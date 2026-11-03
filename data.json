@@ -72,6 +72,14 @@
         "rowNumber": 19,
         "muted": true
       }
+    ],
+    "Obsidian/Calendario/Hogar/2026-11-06 Llegas las compras.md": [
+      {
+        "title": "🛒 Llegas las compras",
+        "time": "2026-11-06 09:00",
+        "rowNumber": 10,
+        "muted": false
+      }
     ]
   },
   "debug": false,
