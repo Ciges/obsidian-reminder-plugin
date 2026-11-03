@@ -64,6 +64,14 @@
         "rowNumber": 32,
         "muted": false
       }
+    ],
+    "Obsidian/Calendario/Desarrollo profesional/2026-11-02 Visita al CIFP de Coia.md": [
+      {
+        "title": "💬 Visita al CIFP de Coia",
+        "time": "2026-11-02 12:00",
+        "rowNumber": 19,
+        "muted": true
+      }
     ]
   },
   "debug": false,
