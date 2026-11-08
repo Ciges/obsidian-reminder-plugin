@@ -57,14 +57,6 @@
         "muted": true
       }
     ],
-    "Obsidian/Calendario/Hogar/2026-11-06 Llegas las compras.md": [
-      {
-        "title": "🛒 Llegas las compras",
-        "time": "2026-11-06 09:00",
-        "rowNumber": 10,
-        "muted": true
-      }
-    ],
     "Obsidian/Calendario/Vida social/2026-11-27 Cena de Navidad 2026 de PSA.md": [
       {
         "title": "🍕 Cena de PSA",
@@ -118,6 +110,22 @@
         "title": "🏠 Visita al piso de Caleira",
         "time": "2026-11-11",
         "rowNumber": 10,
+        "muted": false
+      }
+    ],
+    "Obsidian/Calendario/Vida social/2026-11-21 Cena running (confirmar 21 o 5).md": [
+      {
+        "title": "🍕 Cena running (confirmar 21 o 5)",
+        "time": "2026-11-21 21:00",
+        "rowNumber": 24,
+        "muted": false
+      }
+    ],
+    "Obsidian/Calendario/Vida social/2026-12-05 Cena running (confirmar 21 o 5).md": [
+      {
+        "title": "🍕 Cena running (confirmar 21 o 5)",
+        "time": "2026-12-05 20:00",
+        "rowNumber": 23,
         "muted": false
       }
     ]
