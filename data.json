@@ -49,14 +49,6 @@
         "muted": false
       }
     ],
-    "Obsidian/Calendario/Desarrollo profesional/2026-11-02 Visita al CIFP de Coia.md": [
-      {
-        "title": "💬 Visita al CIFP de Coia",
-        "time": "2026-11-02 12:00",
-        "rowNumber": 21,
-        "muted": true
-      }
-    ],
     "Obsidian/Calendario/Vida social/2026-11-27 Cena de Navidad 2026 de PSA.md": [
       {
         "title": "🍕 Cena de PSA",
@@ -126,6 +118,14 @@
         "title": "🍕 Cena running (confirmar 21 o 5)",
         "time": "2026-12-05 20:00",
         "rowNumber": 23,
+        "muted": false
+      }
+    ],
+    "Obsidian/Calendario/Desarrollo profesional/2026-11-11 Cita con Jesús Lomba.md": [
+      {
+        "title": "💬==Cita con Jesús Lomba==",
+        "time": "2026-11-11 10:00",
+        "rowNumber": 21,
         "muted": false
       }
     ]
