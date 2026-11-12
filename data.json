@@ -13,7 +13,7 @@
       {
         "title": "🏛️ Cita de orientacón laboral",
         "time": "2026-11-24 09:30",
-        "rowNumber": 28,
+        "rowNumber": 30,
         "muted": false
       }
     ],
@@ -102,7 +102,7 @@
         "title": "🏠 Visita al piso de Caleira",
         "time": "2026-11-11 17:00",
         "rowNumber": 12,
-        "muted": false
+        "muted": true
       }
     ],
     "Obsidian/Calendario/Vida social/2026-11-21 Cena running (confirmar 21 o 5).md": [
@@ -121,20 +121,20 @@
         "muted": false
       }
     ],
-    "Obsidian/Calendario/Desarrollo profesional/2026-11-11 Cita con Jesús Lomba y Alberto Caride.md": [
-      {
-        "title": "💬==Cita con Jesús Lomba y Alberto Caride==",
-        "time": "2026-11-11 10:00",
-        "rowNumber": 27,
-        "muted": true
-      }
-    ],
     "Obsidian/Calendario/Desarrollo profesional/2026-11-13 Cita en OPmobility.md": [
       {
         "title": "⚒️ Cita en OPmobility",
         "time": "2026-11-13 11:00",
         "rowNumber": 26,
         "muted": false
+      }
+    ],
+    "Obsidian/Calendario/Desarrollo profesional/2026-11-11 Cita con Jesús Lomba y Alberto Caride.md": [
+      {
+        "title": "💬==Cita con Jesús Lomba y Alberto Caride==",
+        "time": "2026-11-11 10:00",
+        "rowNumber": 27,
+        "muted": true
       }
     ],
     "Obsidian/Calendario/Desarrollo profesional/2026-11-10 Visita al CFIP Valentín Paz Andrade e IES Ricardo Mella.md": [
