@@ -22,14 +22,14 @@
         "title": "🎙️ Entrevistas Jordi Wild",
         "time": "2026-11-13",
         "rowNumber": 18,
-        "muted": false
+        "muted": true
       }
     ],
     "Obsidian/Calendario/Vida social/2026-11-14 Cena de Navidad Studio 19.md": [
       {
         "title": "🥩 Cena de Navidad Studio 19",
         "time": "2026-11-14 21:00",
-        "rowNumber": 33,
+        "rowNumber": 34,
         "muted": false
       }
     ],
@@ -97,36 +97,12 @@
         "muted": false
       }
     ],
-    "Obsidian/Calendario/Hogar/2026-11-11 Visita al piso de Caleira.md": [
-      {
-        "title": "🏠 Visita al piso de Caleira",
-        "time": "2026-11-11 17:00",
-        "rowNumber": 12,
-        "muted": true
-      }
-    ],
-    "Obsidian/Calendario/Vida social/2026-11-21 Cena running (confirmar 21 o 5).md": [
-      {
-        "title": "🍕 Cena running (confirmar 21 o 5)",
-        "time": "2026-11-21 21:00",
-        "rowNumber": 24,
-        "muted": false
-      }
-    ],
-    "Obsidian/Calendario/Vida social/2026-12-05 Cena running (confirmar 21 o 5).md": [
-      {
-        "title": "🍕 Cena running (confirmar 21 o 5)",
-        "time": "2026-12-05 20:00",
-        "rowNumber": 23,
-        "muted": false
-      }
-    ],
     "Obsidian/Calendario/Desarrollo profesional/2026-11-13 Cita en OPmobility.md": [
       {
         "title": "⚒️ Cita en OPmobility",
         "time": "2026-11-13 11:00",
         "rowNumber": 26,
-        "muted": false
+        "muted": true
       }
     ],
     "Obsidian/Calendario/Desarrollo profesional/2026-11-11 Cita con Jesús Lomba y Alberto Caride.md": [
@@ -143,6 +119,22 @@
         "time": "2026-11-10 10:30",
         "rowNumber": 29,
         "muted": true
+      }
+    ],
+    "Obsidian/Calendario/Vida social/2026-12-19 Picoteo del gym.md": [
+      {
+        "title": "🥩 Picoteo del gym",
+        "time": "2026-12-19 19:00",
+        "rowNumber": 29,
+        "muted": false
+      }
+    ],
+    "Obsidian/Calendario/Vida social/2026-12-05 Cena Veteranos del Vietnam.md": [
+      {
+        "title": "🍕 Cena Veteranos del Vietnam (confirmar 21 o 5)",
+        "time": "2026-12-05 20:00",
+        "rowNumber": 27,
+        "muted": false
       }
     ]
   },
