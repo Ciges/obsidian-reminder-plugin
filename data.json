@@ -30,7 +30,7 @@
         "title": "🥩 Cena de Navidad Studio 19",
         "time": "2026-11-14 21:00",
         "rowNumber": 34,
-        "muted": false
+        "muted": true
       }
     ],
     "Obsidian/Calendario/Vida social/2026-10-31 Cena RV Entrenamiento Personal.md": [
@@ -134,6 +134,14 @@
         "title": "🍕 Cena Veteranos del Vietnam (confirmar 21 o 5)",
         "time": "2026-12-05 20:00",
         "rowNumber": 27,
+        "muted": false
+      }
+    ],
+    "Obsidian/Calendario/A tener en cuenta/2026-11-26 Renovación del pasaporte.md": [
+      {
+        "title": "👮 Renovación del pasaporte",
+        "time": "2026-11-26 17:00",
+        "rowNumber": 24,
         "muted": false
       }
     ]
