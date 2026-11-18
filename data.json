@@ -139,9 +139,15 @@
     ],
     "Obsidian/Calendario/A tener en cuenta/2026-11-26 Renovación del pasaporte.md": [
       {
-        "title": "👮 Renovación del pasaporte",
+        "title": "👮 Renovación de tu pasaporte",
         "time": "2026-11-26 17:00",
         "rowNumber": 24,
+        "muted": false
+      },
+      {
+        "title": "💃 Renovación del paspaporte de [[Urji]]",
+        "time": "2026-11-26 17:12",
+        "rowNumber": 25,
         "muted": false
       }
     ]
