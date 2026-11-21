@@ -29,7 +29,7 @@
       {
         "title": "🥩 Cena RV Entrenamiento Personal",
         "time": "2026-10-31 21:30",
-        "rowNumber": 33,
+        "rowNumber": 35,
         "muted": true
       }
     ],
@@ -172,6 +172,22 @@
         "title": "💃 Aniversario Be Magic Studio",
         "time": "2026-11-22 18:30",
         "rowNumber": 22,
+        "muted": false
+      }
+    ],
+    "Obsidian/Calendario/Tus padres/2026-11-26 Tus padres se van a Chantada.md": [
+      {
+        "title": "👴 Tus padres se van a Chantada",
+        "time": "2026-11-29",
+        "rowNumber": 27,
+        "muted": false
+      }
+    ],
+    "Obsidian/Calendario/Vida social/2026-12-31 Cena de Nochevieja en casa de Pili y Luis.md": [
+      {
+        "title": "🥩 Cena en casa de Pili y Luis",
+        "time": "2026-12-31 20:00",
+        "rowNumber": 43,
         "muted": false
       }
     ]
