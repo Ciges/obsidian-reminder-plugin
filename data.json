@@ -145,7 +145,7 @@
     ],
     "Diario/2026/11/2026-11-18.md": [
       {
-        "title": "Llama a [[Cafetería O Avro]] para comentar que te has dejado el paraguas azul y vas el martes a buscarlo #task [[Recupera tu paragüas]] [context:: ☎️, 🧑‍🤝‍🧑]  [priority:: normal]",
+        "title": "Llama a [[Cafetería O Avro]] para comentar que te has dejado el paraguas azul y vas el martes a buscarlo #task [[Recupera tu paragüas]] [context:: ☎️, 🧑‍🤝‍🧑]  [priority:: medium]",
         "time": "2026-11-24",
         "rowNumber": 93,
         "muted": false
@@ -172,7 +172,7 @@
         "title": "💃 Aniversario Be Magic Studio",
         "time": "2026-11-22 18:30",
         "rowNumber": 22,
-        "muted": false
+        "muted": true
       }
     ],
     "Obsidian/Calendario/Tus padres/2026-11-26 Tus padres se van a Chantada.md": [
