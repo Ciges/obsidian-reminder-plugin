@@ -9,27 +9,11 @@
         "muted": false
       }
     ],
-    "Obsidian/Calendario/Desarrollo profesional/2026-11-24 Cita de orientación laboral.md": [
-      {
-        "title": "🏛️ Cita de orientacón laboral",
-        "time": "2026-11-24 09:30",
-        "rowNumber": 30,
-        "muted": false
-      }
-    ],
     "Obsidian/Calendario/A tener en cuenta/2026-11-13 Entrevistas Jordi Wild.md": [
       {
         "title": "🎙️ Entrevistas Jordi Wild",
         "time": "2026-11-13",
         "rowNumber": 18,
-        "muted": true
-      }
-    ],
-    "Obsidian/Calendario/Vida social/2026-10-31 Cena RV Entrenamiento Personal.md": [
-      {
-        "title": "🥩 Cena RV Entrenamiento Personal",
-        "time": "2026-10-31 21:30",
-        "rowNumber": 35,
         "muted": true
       }
     ],
@@ -81,30 +65,6 @@
         "muted": false
       }
     ],
-    "Obsidian/Calendario/Desarrollo profesional/2026-11-13 Cita en OPmobility.md": [
-      {
-        "title": "⚒️ Cita en OPmobility",
-        "time": "2026-11-13 11:00",
-        "rowNumber": 26,
-        "muted": true
-      }
-    ],
-    "Obsidian/Calendario/Desarrollo profesional/2026-11-11 Cita con Jesús Lomba y Alberto Caride.md": [
-      {
-        "title": "💬==Cita con Jesús Lomba y Alberto Caride==",
-        "time": "2026-11-11 10:00",
-        "rowNumber": 27,
-        "muted": true
-      }
-    ],
-    "Obsidian/Calendario/Desarrollo profesional/2026-11-10 Visita al CFIP Valentín Paz Andrade e IES Ricardo Mella.md": [
-      {
-        "title": "⚒️ Visita al CFIP Valentín Paz Andrade e IES Ricardo Mella",
-        "time": "2026-11-10 10:30",
-        "rowNumber": 29,
-        "muted": true
-      }
-    ],
     "Obsidian/Calendario/Vida social/2026-12-19 Picoteo del gym.md": [
       {
         "title": "🥩 Picoteo del gym",
@@ -145,10 +105,10 @@
     ],
     "Diario/2026/11/2026-11-18.md": [
       {
-        "title": "Llama a [[Cafetería O Avro]] para comentar que te has dejado el paraguas azul y vas el martes a buscarlo #task [[Recupera tu paragüas]] [context:: ☎️, 🧑‍🤝‍🧑]  [priority:: medium]",
+        "title": "Llama a [[Cafetería O Avro]] para comentar que te has dejado el paraguas azul y vas el martes a buscarlo #task [[Recupera tu paragüas]] [context:: ☎️, 🧑‍🤝‍🧑]  [priority:: high]",
         "time": "2026-11-24",
         "rowNumber": 93,
-        "muted": false
+        "muted": true
       }
     ],
     "Obsidian/Calendario/Noan/2027-02-05 Viaje a Egipto.md": [
@@ -167,14 +127,6 @@
         "muted": false
       }
     ],
-    "Obsidian/Calendario/Vida social/2026-11-22 Aniversario Be Magic Studio.md": [
-      {
-        "title": "💃 Aniversario Be Magic Studio",
-        "time": "2026-11-22 18:30",
-        "rowNumber": 22,
-        "muted": true
-      }
-    ],
     "Obsidian/Calendario/Tus padres/2026-11-26 Tus padres se van a Chantada.md": [
       {
         "title": "👴 Tus padres se van a Chantada",
@@ -189,6 +141,14 @@
         "time": "2026-12-31 20:00",
         "rowNumber": 43,
         "muted": false
+      }
+    ],
+    "Obsidian/Calendario/Revisar/2026-11-22 Aniversario Be Magic Studio.md": [
+      {
+        "title": "💃 Aniversario Be Magic Studio",
+        "time": "2026-11-22 18:30",
+        "rowNumber": 49,
+        "muted": true
       }
     ]
   },
