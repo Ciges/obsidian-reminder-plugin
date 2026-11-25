@@ -25,14 +25,6 @@
         "muted": false
       }
     ],
-    "Obsidian/Calendario/Vida social/2026-11-27 Cena de Navidad 2026 de PSA.md": [
-      {
-        "title": "🍕 Cena de PSA",
-        "time": "2026-11-28 20:00",
-        "rowNumber": 79,
-        "muted": false
-      }
-    ],
     "Obsidian/Calendario/Citas médicas/2027-04-02 Cita con Irene Ramos.md": [
       {
         "title": "👩‍⚕️ Cita médica con Irene Ramos",
@@ -81,20 +73,6 @@
         "muted": false
       }
     ],
-    "Obsidian/Calendario/A tener en cuenta/2026-11-26 Renovación del pasaporte.md": [
-      {
-        "title": "👮 Renovación de tu pasaporte",
-        "time": "2026-11-26 17:00",
-        "rowNumber": 24,
-        "muted": false
-      },
-      {
-        "title": "💃 Renovación del paspaporte de [[Urji]]",
-        "time": "2026-11-26 17:12",
-        "rowNumber": 25,
-        "muted": false
-      }
-    ],
     "Obsidian/Calendario/Deportes/2026-11-25 Entrenamiento personal (recuperación).md": [
       {
         "title": "🏋️ Entrenamiento personal (recuperación)",
@@ -105,10 +83,10 @@
     ],
     "Diario/2026/11/2026-11-18.md": [
       {
-        "title": "Llama a [[Cafetería O Avro]] para comentar que te has dejado el paraguas azul y vas el martes a buscarlo #task [[Recupera tu paragüas]] [context:: ☎️, 🧑‍🤝‍🧑]  [priority:: high]",
-        "time": "2026-11-24",
+        "title": "Llama a [[Cafetería O Avro]] para comentar que te has dejado el paraguas azul y vas el martes a buscarlo #task [[Recupera tu paragüas]] [context:: ☎️, 🧑‍🤝‍🧑]  [priority:: highest]",
+        "time": "2026-12-02",
         "rowNumber": 93,
-        "muted": true
+        "muted": false
       }
     ],
     "Obsidian/Calendario/Noan/2027-02-05 Viaje a Egipto.md": [
@@ -149,6 +127,52 @@
         "time": "2026-11-22 18:30",
         "rowNumber": 49,
         "muted": true
+      }
+    ],
+    "Obsidian/Calendario/Eventos críticos/2026-11-26 Renovación del pasaporte.md": [
+      {
+        "title": "👮 Renovación de tu pasaporte",
+        "time": "2026-11-26 17:00",
+        "rowNumber": 24,
+        "muted": false
+      },
+      {
+        "title": "💃 Renovación del paspaporte de [[Urji]]",
+        "time": "2026-11-26 17:12",
+        "rowNumber": 25,
+        "muted": false
+      }
+    ],
+    "Obsidian/Calendario/Eventos críticos/2026-11-27 Cena de Navidad 2026 de PSA.md": [
+      {
+        "title": "🍕 Cena de PSA",
+        "time": "2026-11-28 20:00",
+        "rowNumber": 79,
+        "muted": false
+      }
+    ],
+    "Obsidian/Calendario/Desarrollo profesional/2026-12-03 Renovación como demandante de empleo.md": [
+      {
+        "title": "🏛️ Renovación como demandante de empleo",
+        "time": "2026-12-03",
+        "rowNumber": 35,
+        "muted": false
+      }
+    ],
+    "Obsidian/Calendario/Desarrollo profesional/2027-01-18 Cita de orientación laboral.md": [
+      {
+        "title": "🏛️ Cita de orientación laboral",
+        "time": "2027-01-18 10:00",
+        "rowNumber": 48,
+        "muted": false
+      }
+    ],
+    "Obsidian/Calendario/Desarrollo profesional/2026-11-25 Cita en el SEPE.md": [
+      {
+        "title": "🏛️ Cita en el SEPE",
+        "time": "2026-11-25 09:30",
+        "rowNumber": 39,
+        "muted": false
       }
     ]
   },
